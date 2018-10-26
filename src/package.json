@@ -1,0 +1,1179 @@
+{
+  "name": "General-Drawings",
+  "description": "Reusable drawings",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "isPrivate": false,
+  "homepage": "https://tp.turbopatent.us/pathub/packages/TurboPatent/General-Drawings.tp",
+  "details": {
+    "counts": {
+      "termCount": 1,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 24,
+      "glossaryCount": 0
+    },
+    "drawings": [
+      {
+        "figure": "Fig. 1",
+        "briefDescription": "<p><b>Fig. 1</b> illustrates a simplified system 100 in which a server 104&#xA0;and a client device 106 are communicatively coupled via a network 102.</p>",
+        "parts": [
+          {
+            "part": "system",
+            "number": 100
+          },
+          {
+            "part": "network",
+            "number": 102
+          },
+          {
+            "part": "server",
+            "number": 104
+          },
+          {
+            "part": "client device",
+            "number": 106
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 2",
+        "briefDescription": "<p><b>Fig. 2</b> is an example block diagram of a computing device 200 that may incorporate embodiments&#xA0;of the present invention.</p>",
+        "parts": [
+          {
+            "part": "computing device",
+            "number": 200
+          },
+          {
+            "part": "monitor or graphical user interface",
+            "number": 202
+          },
+          {
+            "part": "processor(s)",
+            "number": 204
+          },
+          {
+            "part": "output device(s)",
+            "number": 206
+          },
+          {
+            "part": "input device(s)",
+            "number": 208
+          },
+          {
+            "part": "volatile memory",
+            "number": 210
+          },
+          {
+            "part": "communication network interface",
+            "number": 212
+          },
+          {
+            "part": "nonvolatile memory",
+            "number": 214
+          },
+          {
+            "part": "communication network",
+            "number": 216
+          },
+          {
+            "part": "bus subsystem",
+            "number": 218
+          },
+          {
+            "part": "data processing system",
+            "number": 220
+          },
+          {
+            "part": "logic",
+            "number": 222
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 3",
+        "briefDescription": "<p><b>Fig. 3</b> illustrates a system 300 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "system",
+            "number": 300
+          },
+          {
+            "part": "bus",
+            "number": 302
+          },
+          {
+            "part": "memory",
+            "number": 304
+          },
+          {
+            "part": "display",
+            "number": 306
+          },
+          {
+            "part": "network interface",
+            "number": 308
+          },
+          {
+            "part": "central processing unit",
+            "number": 310
+          },
+          {
+            "part": "operating system",
+            "number": 312
+          },
+          {
+            "part": "database",
+            "number": 314
+          },
+          {
+            "part": "non-transitory computer-readable&#xA0;",
+            "number": 316
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 4",
+        "briefDescription": "<p><b>Fig. 4</b> illustrates an embodiment of a digital apparatus 400&#xA0;to&#xA0;implement components and process steps of the system&#xA0;described&#xA0;herein.</p>",
+        "parts": [
+          {
+            "part": "digital apparatus",
+            "number": 400
+          },
+          {
+            "part": "CPU",
+            "number": 402
+          },
+          {
+            "part": "input devices",
+            "number": 404
+          },
+          {
+            "part": "memory",
+            "number": 406
+          },
+          {
+            "part": "output devices",
+            "number": 408
+          },
+          {
+            "part": "storage devices",
+            "number": 410
+          },
+          {
+            "part": "network interface",
+            "number": 412
+          },
+          {
+            "part": "logic",
+            "number": 414
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 5",
+        "briefDescription": "<p><b>Fig. 5</b> &#xA0;illustrates an embodiment of a &#xA0;mobile device 500.</p>",
+        "parts": [
+          {
+            "part": "mobile device",
+            "number": 500
+          },
+          {
+            "part": "antenna",
+            "number": 502
+          },
+          {
+            "part": "control logic",
+            "number": 504
+          },
+          {
+            "part": "wireless communication logic",
+            "number": 506
+          },
+          {
+            "part": "memory",
+            "number": 508
+          },
+          {
+            "part": "power manager",
+            "number": 510
+          },
+          {
+            "part": "battery",
+            "number": 512
+          },
+          {
+            "part": "user interface logic",
+            "number": 514
+          },
+          {
+            "part": "logic",
+            "number": 516
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 6",
+        "briefDescription": "<p><b>Fig. 6</b> illustrates an item 600 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "item",
+            "number": 600
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 7",
+        "briefDescription": "<p><b>Fig. 7</b> illustrates an item 700 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "item",
+            "number": 700
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 8",
+        "briefDescription": "<p><b>Fig. 8</b> &#xA0;illustrates an embodiment of a&#xA0;mobile device 800.</p>",
+        "parts": [
+          {
+            "part": "mobile device",
+            "number": 800
+          },
+          {
+            "part": "antenna",
+            "number": 802
+          },
+          {
+            "part": "signal processing and system control",
+            "number": 804
+          },
+          {
+            "part": "wireless communication",
+            "number": 806
+          },
+          {
+            "part": "memory",
+            "number": 808
+          },
+          {
+            "part": "power manager",
+            "number": 810
+          },
+          {
+            "part": "battery",
+            "number": 812
+          },
+          {
+            "part": "user interface",
+            "number": 814
+          },
+          {
+            "part": "camera",
+            "number": 816
+          },
+          {
+            "part": "image processing",
+            "number": 818
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 9",
+        "briefDescription": "<p><b>Fig. 9</b> &#xA0;illustrates an embodiment of a &#xA0;mobile device 900.</p>",
+        "parts": [
+          {
+            "part": "mobile device",
+            "number": 900
+          },
+          {
+            "part": "antenna",
+            "number": 902
+          },
+          {
+            "part": "antenna",
+            "number": 904
+          },
+          {
+            "part": "signal processing and system control",
+            "number": 906
+          },
+          {
+            "part": "wireless communication",
+            "number": 908
+          },
+          {
+            "part": "SIM",
+            "number": 910
+          },
+          {
+            "part": "speaker",
+            "number": 912
+          },
+          {
+            "part": "vibration generator",
+            "number": 914
+          },
+          {
+            "part": "memory",
+            "number": 916
+          },
+          {
+            "part": "power manager",
+            "number": 918
+          },
+          {
+            "part": "battery",
+            "number": 920
+          },
+          {
+            "part": "user interface",
+            "number": 922
+          },
+          {
+            "part": "camera",
+            "number": 924
+          },
+          {
+            "part": "image processing",
+            "number": 926
+          },
+          {
+            "part": "wireless communication logic",
+            "number": 928
+          },
+          {
+            "part": "audio driver",
+            "number": 930
+          },
+          {
+            "part": "haptic driver",
+            "number": 932
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 10",
+        "briefDescription": "<p><b>Fig. 10</b> &#xA0;illustrates an embodiment of a &#xA0;mobile device 700 (deleted).</p>",
+        "parts": [
+          {
+            "part": "gyroscope",
+            "number": 1002
+          },
+          {
+            "part": "memory",
+            "number": 1004
+          },
+          {
+            "part": "signal processing and system control",
+            "number": 1006
+          },
+          {
+            "part": "other transducers",
+            "number": 1008
+          },
+          {
+            "part": "DSP",
+            "number": 1010
+          },
+          {
+            "part": "altimeter",
+            "number": 1012
+          },
+          {
+            "part": "motor control",
+            "number": 1014
+          },
+          {
+            "part": "memory",
+            "number": 1016
+          },
+          {
+            "part": "power manager",
+            "number": 1018
+          },
+          {
+            "part": "battery",
+            "number": 1020
+          },
+          {
+            "part": "camera",
+            "number": 1022
+          },
+          {
+            "part": "image processing",
+            "number": 1024
+          },
+          {
+            "part": "wireless communication logic",
+            "number": 1026
+          },
+          {
+            "part": "navigation board",
+            "number": 1028
+          },
+          {
+            "part": "GPU",
+            "number": 1030
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 11",
+        "briefDescription": "<p><b>Fig. 11</b> illustrates an embodiment of a network 1100.</p>",
+        "parts": [
+          {
+            "part": "network",
+            "number": 1100
+          },
+          {
+            "part": "client device",
+            "number": 1102
+          },
+          {
+            "part": "client device",
+            "number": 1104
+          },
+          {
+            "part": "client device",
+            "number": 1106
+          },
+          {
+            "part": "server",
+            "number": 1108
+          },
+          {
+            "part": "server",
+            "number": 1110
+          },
+          {
+            "part": "router",
+            "number": 1112
+          },
+          {
+            "part": "network",
+            "number": 1114
+          },
+          {
+            "part": "network",
+            "number": 1116
+          },
+          {
+            "part": "network",
+            "number": 1118
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 12",
+        "briefDescription": "<p><b>Fig. 12</b> illustrates an embodiment of a computing environment 1200.</p>",
+        "parts": [
+          {
+            "part": "computing environment",
+            "number": 1200
+          },
+          {
+            "part": "CPU",
+            "number": 1202
+          },
+          {
+            "part": "bus",
+            "number": 1204
+          },
+          {
+            "part": "ROM",
+            "number": 1206
+          },
+          {
+            "part": "RAM",
+            "number": 1208
+          },
+          {
+            "part": "I/O adapter",
+            "number": 1210
+          },
+          {
+            "part": "memory structure",
+            "number": 1212
+          },
+          {
+            "part": "communication adapter",
+            "number": 1214
+          },
+          {
+            "part": "communication",
+            "number": 1216
+          },
+          {
+            "part": "interface device",
+            "number": 1218
+          },
+          {
+            "part": "user interface adapter",
+            "number": 1220
+          },
+          {
+            "part": "interface device",
+            "number": 1222
+          },
+          {
+            "part": "interface device",
+            "number": 1224
+          },
+          {
+            "part": "interface device",
+            "number": 1226
+          },
+          {
+            "part": "display adapter",
+            "number": 1228
+          },
+          {
+            "part": "display device",
+            "number": 1230
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 13",
+        "briefDescription": "",
+        "parts": [
+          {
+            "part": "system",
+            "number": 1300
+          },
+          {
+            "part": "host OE",
+            "number": 1302
+          },
+          {
+            "part": "VOE A",
+            "number": 1304
+          },
+          {
+            "part": "VOE B",
+            "number": 1306
+          },
+          {
+            "part": "VOE C",
+            "number": 1308
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 14",
+        "briefDescription": "<p><b>Fig. 14</b> illustrates an embodiment of a system 1400.</p>",
+        "parts": [
+          {
+            "part": "system",
+            "number": 1400
+          },
+          {
+            "part": "host OE",
+            "number": 1402
+          },
+          {
+            "part": "OE D",
+            "number": 1404
+          },
+          {
+            "part": "network",
+            "number": 1406
+          },
+          {
+            "part": "OE B",
+            "number": 1408
+          },
+          {
+            "part": "OE C",
+            "number": 1410
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 15",
+        "briefDescription": "<p><b>Fig. 15</b> illustrates an embodiment of a system 1500.</p>",
+        "parts": [
+          {
+            "part": "system",
+            "number": 1500
+          },
+          {
+            "part": "gateway",
+            "number": 1502
+          },
+          {
+            "part": "OE A",
+            "number": 1504
+          },
+          {
+            "part": "network",
+            "number": 1506
+          },
+          {
+            "part": "OE B",
+            "number": 1508
+          },
+          {
+            "part": "OE C",
+            "number": 1510
+          },
+          {
+            "part": "cloud",
+            "number": 1512
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 16",
+        "briefDescription": "<p><b>Fig. 16</b> illustrates an embodiment of a computing environment 1600.</p>",
+        "parts": [
+          {
+            "part": "computing environment",
+            "number": 1600
+          },
+          {
+            "part": "device",
+            "number": 1602
+          },
+          {
+            "part": "processor",
+            "number": 1604
+          },
+          {
+            "part": "physical processor memory",
+            "number": 1606
+          },
+          {
+            "part": "persistent secondary storage",
+            "number": 1608
+          },
+          {
+            "part": "input device adapter",
+            "number": 1610
+          },
+          {
+            "part": "output device adapter",
+            "number": 1612
+          },
+          {
+            "part": "network interface adapter",
+            "number": 1614
+          },
+          {
+            "part": "bus",
+            "number": 1616
+          },
+          {
+            "part": "virtual processor memory",
+            "number": 1618
+          },
+          {
+            "part": "operating system",
+            "number": 1620
+          },
+          {
+            "part": "OCE",
+            "number": 1622
+          },
+          {
+            "part": "applications",
+            "number": 1624
+          },
+          {
+            "part": "other libraries and subsystems",
+            "number": 1626
+          },
+          {
+            "part": "input device",
+            "number": 1628
+          },
+          {
+            "part": "output device",
+            "number": 1630
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 17",
+        "briefDescription": "<p><b>Fig. 17</b> illustrates an embodiment of an operating environment 1700.</p>",
+        "parts": [
+          {
+            "part": "operating environment",
+            "number": 1700
+          },
+          {
+            "part": "application",
+            "number": 1702
+          },
+          {
+            "part": "web browser",
+            "number": 1704
+          },
+          {
+            "part": "application logic",
+            "number": 1706
+          },
+          {
+            "part": "application logic",
+            "number": 1708
+          },
+          {
+            "part": "SAA",
+            "number": 1710
+          },
+          {
+            "part": "subsystem",
+            "number": 1712
+          },
+          {
+            "part": "network stack",
+            "number": 1714
+          },
+          {
+            "part": "application protocol service",
+            "number": 1716
+          },
+          {
+            "part": "content manager",
+            "number": 1718
+          },
+          {
+            "part": "content handler",
+            "number": 1720
+          },
+          {
+            "part": "UI element&#xA0;handler",
+            "number": 1722
+          },
+          {
+            "part": "UI element&#xA0;handler",
+            "number": 1724
+          },
+          {
+            "part": "presentation controller",
+            "number": 1726
+          },
+          {
+            "part": "presentation controller",
+            "number": 1728
+          },
+          {
+            "part": "GUI subsystem",
+            "number": 1730
+          },
+          {
+            "part": "graphics subsystem",
+            "number": 1732
+          },
+          {
+            "part": "input driver",
+            "number": 1734
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 18",
+        "briefDescription": "<p><b>Fig. 18</b> illustrates an embodiment of computing environment 1800.</p>",
+        "parts": [
+          {
+            "part": "computing environment",
+            "number": 1800
+          },
+          {
+            "part": "service application",
+            "number": 1802
+          },
+          {
+            "part": "network stack",
+            "number": 1804
+          },
+          {
+            "part": "network application platform",
+            "number": 1806
+          },
+          {
+            "part": "application protocol service",
+            "number": 1808
+          },
+          {
+            "part": "controller",
+            "number": 1810
+          },
+          {
+            "part": "model",
+            "number": 1812
+          },
+          {
+            "part": "request handler",
+            "number": 1814
+          },
+          {
+            "part": "model database",
+            "number": 1816
+          },
+          {
+            "part": "data access manager",
+            "number": 1818
+          },
+          {
+            "part": "template engine",
+            "number": 1820
+          },
+          {
+            "part": "template database",
+            "number": 1822
+          },
+          {
+            "part": "template",
+            "number": 1824
+          },
+          {
+            "part": "view",
+            "number": 1826
+          },
+          {
+            "part": "response handler",
+            "number": 1828
+          },
+          {
+            "part": "data-out",
+            "number": 1830
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 19",
+        "briefDescription": "",
+        "parts": [
+          {
+            "part": "item",
+            "number": 1900
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 20",
+        "briefDescription": "",
+        "parts": [
+          {
+            "part": "item",
+            "number": 2000
+          },
+          {
+            "part": "",
+            "number": 2002
+          },
+          {
+            "part": "",
+            "number": 2004
+          },
+          {
+            "part": "",
+            "number": 2006
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 21",
+        "briefDescription": "",
+        "parts": [
+          {
+            "part": "block diagram",
+            "number": 2100
+          },
+          {
+            "part": "machine",
+            "number": 2102
+          },
+          {
+            "part": "Software Architecture",
+            "number": 2104
+          },
+          {
+            "part": "applications",
+            "number": 2106
+          },
+          {
+            "part": "frameworks",
+            "number": 2108
+          },
+          {
+            "part": "libraries",
+            "number": 2110
+          },
+          {
+            "part": "operating system",
+            "number": 2112
+          },
+          {
+            "part": "kernel",
+            "number": 2114
+          },
+          {
+            "part": "services",
+            "number": 2116
+          },
+          {
+            "part": "system libraries",
+            "number": 2118
+          },
+          {
+            "part": "processors",
+            "number": 2120
+          },
+          {
+            "part": "drivers",
+            "number": 2122
+          },
+          {
+            "part": "API libraries",
+            "number": 2124
+          },
+          {
+            "part": "memory",
+            "number": 2126
+          },
+          {
+            "part": "other libraries",
+            "number": 2128
+          },
+          {
+            "part": "contacts application",
+            "number": 2130
+          },
+          {
+            "part": "browser application",
+            "number": 2132
+          },
+          {
+            "part": "book reader application",
+            "number": 2134
+          },
+          {
+            "part": "home application",
+            "number": 2136
+          },
+          {
+            "part": "I/O components",
+            "number": 2138
+          },
+          {
+            "part": "third-party application",
+            "number": 2140
+          },
+          {
+            "part": "location application",
+            "number": 2142
+          },
+          {
+            "part": "media application",
+            "number": 2144
+          },
+          {
+            "part": "messaging application",
+            "number": 2146
+          },
+          {
+            "part": "game application",
+            "number": 2148
+          },
+          {
+            "part": "api calls",
+            "number": 2150
+          },
+          {
+            "part": "messages",
+            "number": 2152
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 22",
+        "briefDescription": "<p><b>Fig. 22</b> illustrates a diagrammatic representation of a machine 2200 in the form of a computer system within which a set of instructions may be executed for causing the machine to perform any one or more of the methodologies discussed herein, according to an example embodiment.</p>",
+        "parts": [
+          {
+            "part": "machine",
+            "number": 2200
+          },
+          {
+            "part": "processors",
+            "number": 2202
+          },
+          {
+            "part": "memory",
+            "number": 2204
+          },
+          {
+            "part": "processor",
+            "number": 2206
+          },
+          {
+            "part": "instructions",
+            "number": 2208
+          },
+          {
+            "part": "instructions",
+            "number": 2208
+          },
+          {
+            "part": "instructions",
+            "number": 2208
+          },
+          {
+            "part": "instructions",
+            "number": 2208
+          },
+          {
+            "part": "instructions",
+            "number": 2208
+          },
+          {
+            "part": "processor",
+            "number": 2210
+          },
+          {
+            "part": "main memory",
+            "number": 2212
+          },
+          {
+            "part": "static memory",
+            "number": 2214
+          },
+          {
+            "part": "storage unit",
+            "number": 2216
+          },
+          {
+            "part": "machine-readable medium",
+            "number": 2218
+          },
+          {
+            "part": "network",
+            "number": 2220
+          },
+          {
+            "part": "devices",
+            "number": 2222
+          },
+          {
+            "part": "coupling",
+            "number": 2224
+          },
+          {
+            "part": "coupling",
+            "number": 2226
+          },
+          {
+            "part": "output components",
+            "number": 2228
+          },
+          {
+            "part": "input&#xA0;components",
+            "number": 2230
+          },
+          {
+            "part": "biometric&#xA0;components",
+            "number": 2232
+          },
+          {
+            "part": "motion&#xA0;components",
+            "number": 2234
+          },
+          {
+            "part": "environmental components",
+            "number": 2236
+          },
+          {
+            "part": "position&#xA0;components",
+            "number": 2238
+          },
+          {
+            "part": "communication&#xA0;components",
+            "number": 2240
+          },
+          {
+            "part": "I/O components",
+            "number": 2242
+          },
+          {
+            "part": "bus",
+            "number": 2244
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 23",
+        "briefDescription": "<p><b>Fig. 23</b> illustrates an item 2300 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "item",
+            "number": 2300
+          },
+          {
+            "part": "",
+            "number": 2302
+          },
+          {
+            "part": "",
+            "number": 2304
+          },
+          {
+            "part": "",
+            "number": 2306
+          },
+          {
+            "part": "",
+            "number": 2308
+          },
+          {
+            "part": "",
+            "number": 2310
+          },
+          {
+            "part": "",
+            "number": 2312
+          },
+          {
+            "part": "",
+            "number": 2314
+          },
+          {
+            "part": "",
+            "number": 2316
+          },
+          {
+            "part": "",
+            "number": 2318
+          },
+          {
+            "part": "",
+            "number": 2320
+          },
+          {
+            "part": "",
+            "number": 2322
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 24",
+        "briefDescription": "<p><b>Fig. 24</b> illustrates an item 2400 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "item",
+            "number": 2400
+          }
+        ]
+      }
+    ],
+    "glossary": [],
+    "terms": [
+      "inventive"
+    ]
+  },
+  "repository": "https://github.com/TurboPatent/General-Drawings"
+}
