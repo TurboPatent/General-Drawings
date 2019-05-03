@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="680.1781005859375" height="858.3093643188477" viewBox="0 48.900001525878906 680.1781005859375 858.3093643188477"><g><g transform="translate(64,764)"><g><g>
-<path d="M513,0H0v94h513V0L513,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="664" height="858.5" viewBox="0 48.9 664 858.5"><defs><marker orient="auto" overflow="visible" markerUnits="userSpaceOnUse"><path stroke="#333333" fill="#333333" d="M 0 0 0 0"/></marker><marker orient="auto" overflow="visible" markerUnits="userSpaceOnUse"><path stroke="#333333" fill="#333333" transform="rotate(180)" d="M 8 -4 0 0 8 4 z"/></marker><marker orient="auto" overflow="visible" markerUnits="userSpaceOnUse"><path stroke="#333333" fill="#333333" transform="rotate(180)" d="M 0 0 0 0"/></marker></defs><g><g data-type="tp.Element" transform="translate(64,764)"><g><g>
+<path d="M513,0H0v94h513V0L513,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="22.4" y="4.3" width="468.2" height="85.4" fill="none"/>
 <circle fill="none" cx="256.5" cy="0" r="0.1"/>
 <circle fill="none" cx="383.6" cy="0" r="0.1"/>
@@ -13,8 +13,8 @@
 <circle fill="none" cx="0" cy="47" r="0.1"/>
 <circle fill="none" cx="0" cy="23.7" r="0.1"/>
 <circle fill="none" cx="129.4" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(512.9,46.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(512.9,46.9)"/><rect stroke-width="0" fill="none" width="468.2" height="85.4" transform="translate(22.4,4.3)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(22.4,4.3)" text-anchor="middle"><tspan x="234.1" y="16.8">MACHINE 2102</tspan></text><path stroke="#000000" fill="none" transform="translate(22.4,4.3)" d="M 261.3 19 298.6 19"/></g><g transform="translate(66,49)"><g><g>
-<path d="M519,0H0v645h519V0L519,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="top" transform="matrix(1,0,0,1,256.5,4.3)"><tspan dy="14.9">MACHINE <tspan text-decoration="underline">2102</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(66,49)"><g><g>
+<path d="M519,0H0v645h519V0L519,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="22.7" y="29.4" width="473.6" height="586.2" fill="none"/>
 <circle fill="none" cx="259.5" cy="0" r="0.1"/>
 <circle fill="none" cx="388.1" cy="0" r="0.1"/>
@@ -28,8 +28,8 @@
 <circle fill="none" cx="0" cy="322.5" r="0.1"/>
 <circle fill="none" cx="0" cy="162.6" r="0.1"/>
 <circle fill="none" cx="130.9" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(518.9,322.4)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(518.9,322.4)"/><rect stroke-width="0" fill="none" width="473.6" height="586.2" transform="translate(22.7,29.4)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(22.7,29.4)" text-anchor="middle"><tspan x="236.8" y="16.8">SOFTWARE ARCHITECTURE 2104</tspan></text><path stroke="#000000" fill="none" transform="translate(22.7,29.4)" d="M 343.1 19 380.4 19"/></g><g transform="translate(77,115)"><g><g>
-<path d="M495,0H0v299h495V0L495,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="top" transform="matrix(1,0,0,1,259.5,29.4)"><tspan dy="14.9">SOFTWARE ARCHITECTURE <tspan text-decoration="underline">2104</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(77,115)"><g><g>
+<path d="M495,0H0v299h495V0L495,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="21.7" y="13.6" width="451.7" height="271.7" fill="none"/>
 <circle fill="none" cx="247.5" cy="0" r="0.1"/>
 <circle fill="none" cx="370.2" cy="0" r="0.1"/>
@@ -43,8 +43,8 @@
 <circle fill="none" cx="0" cy="149.5" r="0.1"/>
 <circle fill="none" cx="0" cy="75.4" r="0.1"/>
 <circle fill="none" cx="124.9" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(494.9,149.4)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(494.9,149.4)"/><rect stroke-width="0" fill="none" width="451.7" height="271.7" transform="translate(21.7,13.6)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(21.7,13.6)" text-anchor="middle"><tspan x="225.9" y="16.8">APPLICATIONS 2106</tspan></text><path stroke="#000000" fill="none" transform="translate(21.7,13.6)" d="M 274.9 19 312.2 19"/></g><g transform="translate(76,423)"><g><g>
-<path d="M499,0H0v38h499V0L499,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="top" transform="matrix(1,0,0,1,247.5,13.6)"><tspan dy="14.9">APPLICATIONS <tspan text-decoration="underline">2106</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(76,423)"><g><g>
+<path d="M499,0H0v38h499V0L499,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="21.8" y="1.7" width="455.4" height="34.5" fill="none"/>
 <circle fill="none" cx="249.5" cy="0" r="0.1"/>
 <circle fill="none" cx="373.2" cy="0" r="0.1"/>
@@ -58,8 +58,8 @@
 <circle fill="none" cx="0" cy="19" r="0.1"/>
 <circle fill="none" cx="0" cy="9.6" r="0.1"/>
 <circle fill="none" cx="125.9" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(498.9,18.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(498.9,18.9)"/><rect stroke-width="0" fill="none" width="455.4" height="34.5" transform="translate(21.8,1.7)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(21.8,1.7)" text-anchor="middle"><tspan x="227.7" y="23.6">FRAMEWORKS 2108</tspan></text><path stroke="#000000" fill="none" transform="translate(21.8,1.7)" d="M 277.2 26 314.5 26"/></g><g transform="translate(77,475)"><g><g>
-<path d="M499,0H0v94.5h499V0L499,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,249.5,19)"><tspan dy="6.5">FRAMEWORKS <tspan text-decoration="underline">2108</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(77,475)"><g><g>
+<path d="M499,0H0v94.5h499V0L499,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="21.8" y="4.3" width="455.4" height="85.9" fill="none"/>
 <circle fill="none" cx="249.5" cy="0" r="0.1"/>
 <circle fill="none" cx="373.2" cy="0" r="0.1"/>
@@ -73,8 +73,8 @@
 <circle fill="none" cx="0" cy="47.2" r="0.1"/>
 <circle fill="none" cx="0" cy="23.8" r="0.1"/>
 <circle fill="none" cx="125.9" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(498.9,47.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(498.9,47.1)"/><rect stroke-width="0" fill="none" width="455.4" height="85.9" transform="translate(21.8,4.3)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(21.8,4.3)" text-anchor="middle"><tspan x="227.7" y="16.8">LIBRARIES 2110</tspan></text><path stroke="#000000" fill="none" transform="translate(21.8,4.3)" d="M 259.9 19 296.6 19"/></g><g transform="translate(76,587)"><g><g>
-<path d="M500,0H0v94h500V0L500,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="top" transform="matrix(1,0,0,1,249.5,4.3)"><tspan dy="14.9">LIBRARIES <tspan text-decoration="underline">2110</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(76,587)"><g><g>
+<path d="M500,0H0v94h500V0L500,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="21.9" y="4.3" width="456.3" height="85.4" fill="none"/>
 <circle fill="none" cx="250" cy="0" r="0.1"/>
 <circle fill="none" cx="373.9" cy="0" r="0.1"/>
@@ -88,8 +88,8 @@
 <circle fill="none" cx="0" cy="47" r="0.1"/>
 <circle fill="none" cx="0" cy="23.7" r="0.1"/>
 <circle fill="none" cx="126.1" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(499.9,46.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(499.9,46.9)"/><rect stroke-width="0" fill="none" width="456.3" height="85.4" transform="translate(21.9,4.3)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(21.9,4.3)" text-anchor="middle"><tspan x="228.1" y="16.8">OPERATING SYSTEM 2112</tspan></text><path stroke="#000000" fill="none" transform="translate(21.9,4.3)" d="M 303.1 19 339.8 19"/></g><g transform="translate(306,697)"><g><g>
-<g stroke="#000000" stroke-dasharray="none" fill="#FFFFFF">
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="top" transform="matrix(1,0,0,1,250,4.3)"><tspan dy="14.9">OPERATING SYSTEM <tspan text-decoration="underline">2112</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(306,697)"><g><g>
+<g fill="#FFFFFF" stroke="#000000">
     <path d="M38.8,7H51.7L25.9,0L0,7h12.9v42H0L25.9,56L51.7,49h-12.9V7z"/>
 </g>
 <rect x="5.5" y="2" fill="none" width="40.8" height="52"/>
@@ -105,8 +105,8 @@
 <circle fill="none" cx="12.8" cy="27.5" r="0.1"/>
 <circle fill="none" cx="12.8" cy="14" r="0.1"/>
 <circle fill="none" cx="0.1" cy="6.8" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(38.7,26.8)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(38.7,26.8)"/><rect stroke-width="0" fill="none" width="156.3" transform="translate(-52.1,66)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-52.1,66)" text-anchor="middle"><tspan x="78.2" y="16.8"> </tspan></text><path stroke="#000000" fill="none" transform="translate(-52.1,66)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 631 698 631 66" fill="none"/><path fill="black" stroke="black" d="" transform="translate(631,698) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(635,58) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(631, 382)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 26 87 26 686" fill="none"/><path fill="black" stroke="black" d="" transform="translate(26,87) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(22,694) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(26, 386.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(6,389)"><g><g>
-<path d="M39.2,0H0v50.8h39.2V0L39.2,0z" stroke="none" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="top" transform="matrix(1,0,0,1,26,66)" display="none"><tspan dy="0.8em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><g data-type="tp.Link"><path fill="none" pointer-events="none" joint-selector="line" stroke-width="1" stroke="#333333" stroke-linejoin="round" marker-start="url(#v-68202000855011)" marker-end="url(#v-68201588573873)" d="M 630 698 L 631 58"/><g><g label-idx="0" cursor="default" transform="translate(630.5, 378)"><rect joint-selector="rect" fill="#ffffff" rx="3" ry="3" width="8" height="0" transform="matrix(1,0,0,1,-4,0)"/><text joint-selector="text" font-size="18.7" xml:space="preserve" display="none" y="0.8em" fill="#000000" text-anchor="middle" pointer-events="none" font-family="OpenSansCondensedLight"><tspan dy="0" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g></g></g><g data-type="tp.Link"><path fill="none" pointer-events="none" joint-selector="line" stroke-width="1" stroke="#333333" stroke-linejoin="round" marker-start="url(#v-68202000855011)" marker-end="url(#v-68201588573873)" d="M 26 87 L 26 694"/><g><g label-idx="0" cursor="default" transform="translate(26, 390.5)"><rect joint-selector="rect" fill="#ffffff" rx="3" ry="3" width="8" height="0" transform="matrix(1,0,0,1,-4,0)"/><text joint-selector="text" font-size="18.7" xml:space="preserve" display="none" y="0.8em" fill="#000000" text-anchor="middle" pointer-events="none" font-family="OpenSansCondensedLight"><tspan dy="0" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g></g></g><g data-type="tp.Element" transform="translate(6,389)"><g><g>
+<path d="M39.2,0H0v50.8h39.2V0L39.2,0z" fill="#FFFFFF"/>
 <rect x="1.7" y="2.3" width="35.8" height="46.2" fill="none"/>
 <circle fill="none" cx="19.6" cy="0" r="0.1"/>
 <circle fill="none" cx="29.3" cy="0" r="0.1"/>
@@ -120,8 +120,8 @@
 <circle fill="none" cx="0" cy="25.4" r="0.1"/>
 <circle fill="none" cx="0" cy="12.8" r="0.1"/>
 <circle fill="none" cx="9.9" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(29.2,-0.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(29.2,-0.1)"/><rect stroke-width="0" fill="none" width="35.8" height="46.2" transform="translate(1.7,2.3)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.7,2.3)" text-anchor="middle"><tspan x="17.9" y="18.9">API</tspan><tspan x="17.9" y="39.9">CALLS</tspan></text><path stroke="#000000" fill="none" transform="translate(1.7,2.3)" d="M 0 0"/></g><g transform="translate(595,362)"><g transform="rotate(180,32.5,13.5)"><g>
-<path d="M65,0H0v27h65V0L65,0z" stroke="none" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,19.6,25.4)"><tspan dy="-0.3em">API</tspan><tspan dy="21" x="0">CALLS</tspan></text></g><g data-type="tp.Element" transform="translate(595,362)"><g transform="rotate(180,32.5,13.5)"><g>
+<path d="M65,0H0v27h65V0L65,0z" fill="#FFFFFF"/>
 <rect x="2.8" y="1.2" width="59.3" height="24.5" fill="none"/>
 <circle fill="none" cx="32.5" cy="0" r="0.1"/>
 <circle fill="none" cx="48.6" cy="0" r="0.1"/>
@@ -135,8 +135,8 @@
 <circle fill="none" cx="0" cy="13.5" r="0.1"/>
 <circle fill="none" cx="0" cy="6.8" r="0.1"/>
 <circle fill="none" cx="16.4" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(48.5,-0.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(48.5,-0.1)"/><rect stroke-width="0" fill="none" width="59.3" height="24.5" transform="translate(2.8,1.2)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.8,1.2)" text-anchor="middle"><tspan x="29.7" y="18.6">MESSAGES</tspan></text><path stroke="#000000" fill="none" transform="translate(2.8,1.2)" d="M 0 0"/></g><g transform="translate(88,625)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,32.5,13.5)"><tspan dy="0.3em">MESSAGES</tspan></text></g><g data-type="tp.Element" transform="translate(88,625)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -150,8 +150,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="27.2">KERNEL 2114</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 81 29 117.7 29"/></g><g transform="translate(264,626)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="6.5">KERNEL <tspan text-decoration="underline">2114</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(264,626)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -165,8 +165,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="16.7">SERVICES</tspan><tspan x="60.2" y="37.7">2116</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 41.9 40 78.5 40"/></g><g transform="translate(87,509)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="-4">SERVICES</tspan><tspan dy="21" x="0"><tspan text-decoration="underline">2116</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(87,509)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -180,8 +180,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="27.2">SYSTEM 2118</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 81.1 29 117.7 29"/></g><g transform="translate(75,803)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="6.5">SYSTEM <tspan text-decoration="underline">2118</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(75,803)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -195,8 +195,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="16.7">PROCESSORS</tspan><tspan x="60.2" y="37.7">2120</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 41.6 40 78.9 40"/></g><g transform="translate(437,624)"><g><g>
-<path d="M132,0H0v48h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="-4">PROCESSORS</tspan><tspan dy="21" x="0"><tspan text-decoration="underline">2120</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(437,624)"><g><g>
+<path d="M132,0H0v48h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.2" width="120.5" height="43.6" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -210,8 +210,8 @@
 <circle fill="none" cx="0" cy="24" r="0.1"/>
 <circle fill="none" cx="0" cy="12.1" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,12)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,12)"/><rect stroke-width="0" fill="none" width="120.5" height="43.6" transform="translate(5.8,2.2)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.2)" text-anchor="middle"><tspan x="60.2" y="17.6">DRIVERS</tspan><tspan x="60.2" y="38.6">2122</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.2)" d="M 41.6 41 78.9 41"/></g><g transform="translate(264,510)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,24)"><tspan dy="-4">DRIVERS</tspan><tspan dy="21" x="0"><tspan text-decoration="underline">2122</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(264,510)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -225,8 +225,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="27.2">API 2124</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 58.9 29 96.3 29"/></g><g transform="translate(250,804)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="6.5">API <tspan text-decoration="underline">2124</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(250,804)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -240,8 +240,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="16.7">MEMORY</tspan><tspan x="60.2" y="37.7">2126</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 41.6 40 78.9 40"/></g><g transform="translate(430,506)"><g><g>
-<path d="M132,0H0v48h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="-4">MEMORY</tspan><tspan dy="21" x="0"><tspan text-decoration="underline">2126</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(430,506)"><g><g>
+<path d="M132,0H0v48h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.2" width="120.5" height="43.6" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -255,8 +255,8 @@
 <circle fill="none" cx="0" cy="24" r="0.1"/>
 <circle fill="none" cx="0" cy="12.1" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,12)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,12)"/><rect stroke-width="0" fill="none" width="120.5" height="43.6" transform="translate(5.8,2.2)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.2)" text-anchor="middle"><tspan x="60.2" y="28.1">OTHER 2128</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.2)" d="M 75 30 112.3 30"/></g><g transform="translate(92,229)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,24)"><tspan dy="6.5">OTHER <tspan text-decoration="underline">2128</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(92,229)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -270,8 +270,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="16.7">CONTACTS</tspan><tspan x="60.2" y="37.7">2130</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 41.6 40 78.9 40"/></g><g transform="translate(92,293)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="-4">CONTACTS</tspan><tspan dy="21" x="0"><tspan text-decoration="underline">2130</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(92,293)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -285,8 +285,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="16.7">BROWSER</tspan><tspan x="60.2" y="37.7">2132</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 41.6 40 78.9 40"/></g><g transform="translate(92,359)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="-4">BROWSER</tspan><tspan dy="21" x="0"><tspan text-decoration="underline">2132</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(92,359)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -300,8 +300,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="16.7">BOOK</tspan><tspan x="60.2" y="37.7">READER 2134</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 81.2 40 118.5 40"/></g><g transform="translate(92,164)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="-4">BOOK</tspan><tspan dy="21" x="0">READER <tspan text-decoration="underline">2134</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(92,164)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -315,8 +315,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="27.2">HOME 2136</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 71.4 29 108.7 29"/></g><g transform="translate(401,802)"><g><g>
-<path d="M164,0H0v48h164V0L164,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="6.5">HOME <tspan text-decoration="underline">2136</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(401,802)"><g><g>
+<path d="M164,0H0v48h164V0L164,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="7.2" y="2.2" width="149.7" height="43.6" fill="none"/>
 <circle fill="none" cx="82" cy="0" r="0.1"/>
 <circle fill="none" cx="122.6" cy="0" r="0.1"/>
@@ -330,8 +330,8 @@
 <circle fill="none" cx="0" cy="24" r="0.1"/>
 <circle fill="none" cx="0" cy="12.1" r="0.1"/>
 <circle fill="none" cx="41.4" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(163.9,12)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(163.9,12)"/><rect stroke-width="0" fill="none" width="149.7" height="43.6" transform="translate(7.2,2.2)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(7.2,2.2)" text-anchor="middle"><tspan x="74.8" y="7.1">I/O</tspan><tspan x="74.8" y="28.1">COMPONENTS</tspan><tspan x="74.8" y="49.1">2138</tspan></text><path stroke="#000000" fill="none" transform="translate(7.2,2.2)" d="M 56.2 51 93.5 51"/></g><g transform="translate(421,161)"><g><g>
-<path d="M132,0H0v110h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,82,24)"><tspan dy="-14.5">I/O</tspan><tspan dy="21" x="0">COMPONENTS</tspan><tspan dy="21" x="0"><tspan text-decoration="underline">2138</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(421,161)"><g><g>
+<path d="M132,0H0v110h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="5" width="120.5" height="100" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -345,8 +345,8 @@
 <circle fill="none" cx="0" cy="55" r="0.1"/>
 <circle fill="none" cx="0" cy="27.7" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,54.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,54.9)"/><rect stroke-width="0" fill="none" width="120.5" height="100" transform="translate(5.8,5)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,5)" text-anchor="middle"><tspan x="60.2" y="24.8">THIRD-</tspan><tspan x="60.2" y="45.8">PARTY</tspan><tspan x="60.2" y="66.8">APPLICATION</tspan><tspan x="60.2" y="87.8">2140</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,5)" d="M 41.6 90 78.9 90"/></g><g transform="translate(260,161)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,55)"><tspan dy="-25">THIRD-</tspan><tspan dy="21" x="0">PARTY</tspan><tspan dy="21" x="0">APPLICATION</tspan><tspan dy="21" x="0"><tspan text-decoration="underline">2140</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(260,161)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -360,8 +360,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="16.7">LOCATION</tspan><tspan x="60.2" y="37.7">2142</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 41.6 40 78.9 40"/></g><g transform="translate(260,226)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="-4">LOCATION</tspan><tspan dy="21" x="0"><tspan text-decoration="underline">2142</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(260,226)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -375,8 +375,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="27.2">MEDIA 2144</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 74.5 29 111.8 29"/></g><g transform="translate(260,290)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="6.5">MEDIA <tspan text-decoration="underline">2144</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(260,290)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -390,8 +390,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="16.7">MESSAGING</tspan><tspan x="60.2" y="37.7">2146</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 41.6 40 78.9 40"/></g><g transform="translate(260,356)"><g><g>
-<path d="M132,0H0v46h132V0L132,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="-4">MESSAGING</tspan><tspan dy="21" x="0"><tspan text-decoration="underline">2146</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(260,356)"><g><g>
+<path d="M132,0H0v46h132V0L132,0z" fill="#FFFFFF" stroke="#000000"/>
 <rect x="5.8" y="2.1" width="120.5" height="41.8" fill="none"/>
 <circle fill="none" cx="66" cy="0" r="0.1"/>
 <circle fill="none" cx="98.7" cy="0" r="0.1"/>
@@ -405,8 +405,8 @@
 <circle fill="none" cx="0" cy="23" r="0.1"/>
 <circle fill="none" cx="0" cy="11.6" r="0.1"/>
 <circle fill="none" cx="33.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(131.9,22.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(131.9,22.9)"/><rect stroke-width="0" fill="none" width="120.5" height="41.8" transform="translate(5.8,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.8,2.1)" text-anchor="middle"><tspan x="60.2" y="27.2">GAME 2148</tspan></text><path stroke="#000000" fill="none" transform="translate(5.8,2.1)" d="M 71.4 29 108.7 29"/></g><g transform="translate(37,195.2)"><g><g>
-<rect y="0" fill="#FFFFFF" width="25" height="30" stroke="none" stroke-dasharray="none"/>
+</g></g><g><rect stroke="none" fill="#ffffff" width="0" height="0"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,66,23)"><tspan dy="6.5">GAME <tspan text-decoration="underline">2148</tspan></tspan></text></g><g data-type="tp.Element" transform="translate(37,195.2)"><g><g>
+<rect y="0" fill="#FFFFFF" width="25" height="30"/>
 <rect x="1.7" y="2.3" fill="none" width="21.5" height="25.5"/>
 <circle fill="none" cx="12.5" cy="0" r="0.1"/>
 <circle fill="none" cx="19.4" cy="0" r="0.1"/>
@@ -420,8 +420,8 @@
 <circle fill="none" cx="0" cy="14.6" r="0.1"/>
 <circle fill="none" cx="0" cy="7.3" r="0.1"/>
 <circle fill="none" cx="6.4" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(24.9,14.5)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(24.9,14.5)"/><rect stroke-width="0" fill="none" width="21.5" height="25.5" transform="translate(1.7,2.3)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" text-decoration="none" transform="translate(1.7,2.3)" text-anchor="middle"><tspan x="10.7" y="19.1">2150</tspan></text><path stroke="#000000" fill="none" transform="translate(1.7,2.3)"/></g><g><path stroke="black" stroke-dasharray="none" d="M 43 225 C 34 225 34 288 25 288" fill="none"/><path fill="black" stroke="black" d="" transform="translate(43,225) scale(1,1) rotate(-254.1)"/><path fill="black" stroke="black" d="" transform="translate(25,288) scale(1,1) rotate(-74.1)"/><g><g label-idx="0" cursor="move" transform="translate(34, 256.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(587,148)"><g><g>
-<rect y="0" fill="#FFFFFF" width="30.2" height="30.2" stroke="none" stroke-dasharray="none"/>
+</g></g><g><rect stroke="none" fill="#ffffff"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,12.4,15.1)"><tspan dy="0.3em">2150</tspan></text></g><g data-type="tp.Link"><path fill="none" pointer-events="none" joint-selector="line" stroke-width="1" stroke="#333333" stroke-linejoin="round" marker-start="url(#v-68202000855011)" marker-end="url(#v-68201454029882)" d="M 43.2 225.3 C 43.2 256.7 25 256.7 25 288"/><g><g label-idx="0" cursor="default" transform="translate(34.1, 256.7)"><rect joint-selector="rect" fill="#ffffff" rx="3" ry="3" width="8" height="0" transform="matrix(1,0,0,1,-4,0)"/><text joint-selector="text" font-size="18.7" xml:space="preserve" display="none" y="0.8em" fill="#000000" text-anchor="middle" pointer-events="none" font-family="OpenSansCondensedLight"><tspan dy="0" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g></g></g><g data-type="tp.Element" transform="translate(587,148)"><g><g>
+<rect y="0" fill="#FFFFFF" width="30.2" height="30.2"/>
 <rect x="2.1" y="2.3" fill="none" width="26" height="25.7"/>
 <circle fill="none" cx="15.1" cy="0" r="0.1"/>
 <circle fill="none" cx="23.5" cy="0" r="0.1"/>
@@ -435,4 +435,4 @@
 <circle fill="none" cx="0" cy="14.7" r="0.1"/>
 <circle fill="none" cx="0" cy="7.3" r="0.1"/>
 <circle fill="none" cx="7.7" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(30.1,14.6)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(30.1,14.6)"/><rect stroke-width="0" fill="none" width="26" height="25.7" transform="translate(2.1,2.3)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" text-decoration="none" transform="translate(2.1,2.3)" text-anchor="middle"><tspan x="13" y="19.2">2152</tspan></text><path stroke="#000000" fill="none" transform="translate(2.1,2.3)"/></g><g><path stroke="black" stroke-dasharray="none" d="M 610 178 C 621 178 621 255 632 255" fill="none"/><path fill="black" stroke="black" d="" transform="translate(610,178) scale(1,1) rotate(74.1)"/><path fill="black" stroke="black" d="" transform="translate(632,255) scale(1,1) rotate(-105.9)"/><g><g label-idx="0" cursor="move" transform="translate(621, 216.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g></g><defs/></svg>
+</g></g><g><rect stroke="none" fill="#ffffff"/><path stroke="#000000" fill="none" d=""/><text font-size="18.7" xml:space="preserve" display="none" font-family="OpenSansCondensedLight" fill="black" text-anchor="middle"><tspan dy="0.3em" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g><text font-size="18.7" xml:space="preserve" font-family="OpenSansCondensedLight" line-height="21" fill="black" text-anchor="middle" text-vertical-anchor="middle" transform="matrix(1,0,0,1,15,15.2)"><tspan dy="0.3em">2152</tspan></text></g><g data-type="tp.Link"><path fill="none" pointer-events="none" joint-selector="line" stroke-width="1" stroke="#333333" stroke-linejoin="round" marker-start="url(#v-68202000855011)" marker-end="url(#v-68201454029882)" d="M 610.6 178.3 C 610.6 216.7 632 216.7 632 255"/><g><g label-idx="0" cursor="default" transform="translate(621.3, 216.7)"><rect joint-selector="rect" fill="#ffffff" rx="3" ry="3" width="8" height="0" transform="matrix(1,0,0,1,-4,0)"/><text joint-selector="text" font-size="18.7" xml:space="preserve" display="none" y="0.8em" fill="#000000" text-anchor="middle" pointer-events="none" font-family="OpenSansCondensedLight"><tspan dy="0" style="fill-opacity: 0; stroke-opacity: 0;">-</tspan></text></g></g></g></g></svg>

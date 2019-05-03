@@ -10,8 +10,9 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>block diagram</p>",
+        "lockAspectRatio": false,
         "position": {
-          "x": 594,
+          "x": 579,
           "y": 15
         },
         "size": {
@@ -37,6 +38,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>machine</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 64,
           "y": 764
@@ -64,6 +66,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 65.99999999999943,
           "y": 48.9999999999996
@@ -91,6 +94,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 77,
           "y": 115
@@ -118,6 +122,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 76,
           "y": 423
@@ -145,6 +150,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 77,
           "y": 475
@@ -172,6 +178,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 76,
           "y": 586.9999999999972
@@ -199,6 +206,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 306,
           "y": 697
@@ -224,7 +232,23 @@
         "arrowheads": "target",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
+        "routing": "straight",
         "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
         "source": {
           "x": 630,
           "y": 698
@@ -236,7 +260,6 @@
         "id": "bf5f8a0f-5093-3098-fee4-de4a3bead6c7",
         "embeds": "",
         "z": 9,
-        "routing": "straight",
         "number": null,
         "objectID": "0ea3f6e7-c868-7822-a8f0-b5822ce2ad1e",
         "vertices": []
@@ -247,7 +270,23 @@
         "arrowheads": "target",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
+        "routing": "straight",
         "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
         "source": {
           "x": 26,
           "y": 87
@@ -259,7 +298,6 @@
         "id": "718b63d2-e2af-6ad8-e605-b3bc87f38487",
         "embeds": "",
         "z": 10,
-        "routing": "straight",
         "number": null,
         "objectID": "031b12a0-a5c4-472a-57ce-35a43449718e",
         "label": ""
@@ -272,6 +310,7 @@
         "outsideNumbers": true,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 6,
           "y": 389
@@ -285,7 +324,10 @@
         "strokeStyle": "none",
         "hasName": false,
         "labelPosition": "internal",
-        "numberPosition": "position2",
+        "numberPosition": {
+          "connectionAngle": 64,
+          "leadLineAngle": 60
+        },
         "id": "da8d6a83-4ac0-f543-1738-9c95fdf2f71b",
         "z": 11,
         "objectID": "38d89fb8-1286-448f-4d37-fffa7421408e",
@@ -299,6 +341,7 @@
         "outsideNumbers": true,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 595,
           "y": 362
@@ -312,7 +355,10 @@
         "strokeStyle": "none",
         "hasName": false,
         "labelPosition": "internal",
-        "numberPosition": "position8",
+        "numberPosition": {
+          "connectionAngle": 64,
+          "leadLineAngle": 60
+        },
         "id": "068f3ebf-9d82-baa2-f945-754b63b9e72f",
         "z": 12,
         "objectID": "701e52b3-38cd-d916-8173-01e3e47a665a",
@@ -326,6 +372,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 88,
           "y": 625
@@ -353,6 +400,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 264,
           "y": 626
@@ -380,6 +428,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>system libraries</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 87,
           "y": 509
@@ -407,6 +456,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 75,
           "y": 803
@@ -434,6 +484,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 437,
           "y": 624
@@ -461,6 +512,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>API libraries</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 264,
           "y": 510
@@ -488,6 +540,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 250,
           "y": 804
@@ -515,6 +568,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>other libraries</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 430,
           "y": 506
@@ -542,6 +596,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>contacts application</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 92,
           "y": 229
@@ -569,6 +624,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>browser application</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 92,
           "y": 293
@@ -596,6 +652,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>book reader application</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 92,
           "y": 359
@@ -623,6 +680,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>home application</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 92,
           "y": 164
@@ -650,6 +708,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 401,
           "y": 802
@@ -677,6 +736,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "",
+        "lockAspectRatio": false,
         "position": {
           "x": 421,
           "y": 161
@@ -704,6 +764,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>location application</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 260,
           "y": 161
@@ -731,6 +792,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>media application</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 260,
           "y": 226
@@ -758,6 +820,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>messaging application</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 260,
           "y": 290
@@ -785,6 +848,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>game application</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 260,
           "y": 356
@@ -812,6 +876,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>api calls</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 36.999999999999986,
           "y": 195.23622131347656
@@ -837,9 +902,33 @@
         "arrowheads": "neither",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
+        "routing": "curved",
         "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
         "source": {
-          "id": "c90647b6-44a8-b4d9-b508-35c60dba8c08"
+          "id": "c90647b6-44a8-b4d9-b508-35c60dba8c08",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "25%",
+              "dy": "100%",
+              "rotate": true
+            }
+          }
         },
         "target": {
           "x": 25,
@@ -848,7 +937,6 @@
         "id": "f844243a-2d1b-87b0-55b4-0d5432ce3715",
         "embeds": "",
         "z": 19,
-        "routing": "curved",
         "number": null,
         "objectID": "20166e2d-3b4b-5fb0-afb1-a1a1d2f2a777",
         "label": ""
@@ -861,6 +949,7 @@
         "outsideNumbers": false,
         "displayCase": "uppercase",
         "name": "<p>messages</p>",
+        "lockAspectRatio": false,
         "position": {
           "x": 587,
           "y": 148
@@ -886,9 +975,33 @@
         "arrowheads": "neither",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
+        "routing": "curved",
         "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
         "source": {
-          "id": "3e736f94-35de-75c9-b1ab-1401c28a2ec6"
+          "id": "3e736f94-35de-75c9-b1ab-1401c28a2ec6",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "78%",
+              "dy": "100%",
+              "rotate": true
+            }
+          }
         },
         "target": {
           "x": 632,
@@ -897,10 +1010,10 @@
         "id": "8b284a3c-1002-2f0b-c26a-68e382b618ed",
         "embeds": "",
         "z": 21,
-        "routing": "curved",
         "number": null,
         "objectID": "3b281407-33a2-ae2a-8e72-c26951b53797"
       }
-    ]
+    ],
+    "tpVersion": 2
   }
 }

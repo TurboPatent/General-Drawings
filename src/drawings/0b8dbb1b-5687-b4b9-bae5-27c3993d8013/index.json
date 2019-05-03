@@ -1,0 +1,740 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>digital apparatus</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 594.8249969482422,
+          "y": 18.390625
+        },
+        "size": {
+          "width": 28.34644317626953,
+          "height": 28.34644317626953
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "7bb035d5-468a-4713-8f9c-169e0c2e7546",
+        "z": 1,
+        "objectID": "56220b1f-ef9c-ede4-bac7-c47677e816fb",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": null,
+        "lockAspectRatio": false,
+        "position": {
+          "x": 320,
+          "y": 25
+        },
+        "size": {
+          "width": 94.48819160461426,
+          "height": 94.48819160461426
+        },
+        "angle": 0,
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 154,
+          "leadLineAngle": 150
+        },
+        "id": "5576b8e6-8aab-20d4-7553-45e37dcdf20f",
+        "embeds": "",
+        "z": 2,
+        "label": "<p>CPU</p>",
+        "objectID": "0fd95f6a-ffe8-7fef-9919-c1f01f3e95ff",
+        "number": 2,
+        "routing": "straight",
+        "arrowheads": "neither",
+        "labelLayout": {
+          "labelBoxWidth": 86.22938537597656,
+          "fullString": "CPU",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "CPU",
+              "width": 24.709918975830078,
+              "x": 30.759733200073242,
+              "y": 32.435169543457036
+            }
+          ],
+          "textWidth": 24.709918975830078,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": null,
+        "lockAspectRatio": false,
+        "position": {
+          "x": 64,
+          "y": 200
+        },
+        "size": {
+          "width": 94.48819160461426,
+          "height": 94.48819160461426
+        },
+        "angle": 0,
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 90
+        },
+        "id": "29d2c314-1527-db31-9136-e3e3c0b0253d",
+        "embeds": "",
+        "z": 3,
+        "label": "<p>input devices</p>",
+        "objectID": "b582b7ae-b2b3-ed72-6425-67390c0b4b20",
+        "number": 4,
+        "routing": "straight",
+        "arrowheads": "neither",
+        "labelLayout": {
+          "labelBoxWidth": 86.22938537597656,
+          "fullString": "INPUT DEVICES",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "INPUT",
+              "width": 37.09218978881836,
+              "x": 24.5685977935791,
+              "y": 21.935150793457034
+            },
+            {
+              "text": "DEVICES",
+              "width": 49.720458984375,
+              "x": 18.25446319580078,
+              "y": 42.93518829345703
+            }
+          ],
+          "textWidth": 49.720458984375,
+          "textHeight": 42.000074999999995
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": null,
+        "lockAspectRatio": false,
+        "position": {
+          "x": 320,
+          "y": 200
+        },
+        "size": {
+          "width": 94.48819160461426,
+          "height": 94.48819160461426
+        },
+        "angle": 0,
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 64,
+          "leadLineAngle": 60
+        },
+        "id": "bcb59b49-b0b2-08be-2e69-e2d0d0d78053",
+        "embeds": "",
+        "z": 4,
+        "label": "<p>memory</p>",
+        "objectID": "5c54c8a3-e170-b552-9341-3dd097e3668b",
+        "number": 6,
+        "routing": "straight",
+        "arrowheads": "neither",
+        "labelLayout": {
+          "labelBoxWidth": 86.22938537597656,
+          "fullString": "MEMORY",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "MEMORY",
+              "width": 56.48109817504883,
+              "x": 14.874143600463867,
+              "y": 32.435169543457036
+            }
+          ],
+          "textWidth": 56.48109817504883,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": null,
+        "lockAspectRatio": false,
+        "position": {
+          "x": 551.5118083953857,
+          "y": 200
+        },
+        "size": {
+          "width": 94.48819160461426,
+          "height": 94.48819160461426
+        },
+        "angle": 0,
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 116,
+          "leadLineAngle": 120
+        },
+        "id": "7b83b96c-9496-09a6-559a-a6bb0edf7dca",
+        "embeds": "",
+        "z": 5,
+        "label": "<p>output devices</p>",
+        "objectID": "98bec12f-0637-eac8-93a5-cf7d7e54792d",
+        "number": 8,
+        "routing": "straight",
+        "arrowheads": "neither",
+        "labelLayout": {
+          "labelBoxWidth": 86.22938537597656,
+          "fullString": "OUTPUT DEVICES",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "OUTPUT",
+              "width": 48.75468826293945,
+              "x": 18.737348556518555,
+              "y": 21.935150793457034
+            },
+            {
+              "text": "DEVICES",
+              "width": 49.720458984375,
+              "x": 18.25446319580078,
+              "y": 42.93518829345703
+            }
+          ],
+          "textWidth": 49.720458984375,
+          "textHeight": 42.000074999999995
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": null,
+        "lockAspectRatio": false,
+        "position": {
+          "x": 320,
+          "y": 377
+        },
+        "size": {
+          "width": 94.48819160461426,
+          "height": 94.48819160461426
+        },
+        "angle": 0,
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 270,
+          "leadLineAngle": 270
+        },
+        "id": "fcd4a0ec-97d3-ffb5-d078-5f7c8705f8c0",
+        "embeds": "",
+        "z": 6,
+        "label": "<p>storage devices</p>",
+        "objectID": "df9bac81-a2f2-5f71-1562-165e56463c3b",
+        "number": 10,
+        "routing": "straight",
+        "arrowheads": "neither",
+        "labelLayout": {
+          "labelBoxWidth": 86.22938537597656,
+          "fullString": "STORAGE DEVICES",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "STORAGE",
+              "width": 55.11436462402344,
+              "x": 15.557510375976562,
+              "y": 21.935150793457034
+            },
+            {
+              "text": "DEVICES",
+              "width": 49.720458984375,
+              "x": 18.25446319580078,
+              "y": 42.93518829345703
+            }
+          ],
+          "textWidth": 55.11436462402344,
+          "textHeight": 42.000074999999995
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": null,
+        "lockAspectRatio": false,
+        "position": {
+          "x": 551.5118083953857,
+          "y": 377
+        },
+        "size": {
+          "width": 94.48819160461426,
+          "height": 94.48819160461426
+        },
+        "angle": 0,
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 270,
+          "leadLineAngle": 270
+        },
+        "id": "c21ea4e7-1958-740c-88dc-0a298c0d81e1",
+        "embeds": "",
+        "z": 7,
+        "label": "<p>network interface</p>",
+        "objectID": "e8affe93-d52d-2d5f-b378-fa0ba4199d88",
+        "number": 12,
+        "routing": "straight",
+        "arrowheads": "neither",
+        "labelLayout": {
+          "labelBoxWidth": 86.22938537597656,
+          "fullString": "NETWORK INTERFACE",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "NETWORK",
+              "width": 61.26454544067383,
+              "x": 12.482419967651367,
+              "y": 21.935150793457034
+            },
+            {
+              "text": "INTERFACE",
+              "width": 63.64253616333008,
+              "x": 11.293424606323242,
+              "y": 42.93518829345703
+            }
+          ],
+          "textWidth": 63.64253616333008,
+          "textHeight": 42.000074999999995
+        }
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "29d2c314-1527-db31-9136-e3e3c0b0253d",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "100%",
+              "dy": "50%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "bcb59b49-b0b2-08be-2e69-e2d0d0d78053",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "0.10563465396794701%",
+              "dy": "50.00002417268969%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "ddb0344c-22e0-0eee-b919-a14e0e0d5bea",
+        "embeds": "",
+        "z": 8,
+        "number": null,
+        "objectID": "d43b9f8c-0514-539a-0d26-7f517f829d40",
+        "jumpLines": true
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "bcb59b49-b0b2-08be-2e69-e2d0d0d78053",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "100%",
+              "dy": "50%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "7b83b96c-9496-09a6-559a-a6bb0edf7dca",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "0.10561857288261675%",
+              "dy": "50.00002417268969%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "f0317790-ab3f-0642-df8d-f4a060afaee9",
+        "embeds": "",
+        "z": 9,
+        "number": null,
+        "objectID": "0530eeca-964c-196a-0aeb-7700d6fb96c4"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "5576b8e6-8aab-20d4-7553-45e37dcdf20f",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "50%",
+              "dy": "100%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "bcb59b49-b0b2-08be-2e69-e2d0d0d78053",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "50.00001611512646%",
+              "dy": "0.10562659640471529%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "a85c1048-183a-d40e-1e16-d7649f8d3a12",
+        "embeds": "",
+        "z": 10,
+        "number": null,
+        "objectID": "c1a90802-ba13-f43d-728b-58c75bdb9dde"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "bcb59b49-b0b2-08be-2e69-e2d0d0d78053",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "50%",
+              "dy": "100%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "fcd4a0ec-97d3-ffb5-d078-5f7c8705f8c0",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "50.00001611512646%",
+              "dy": "0.10563465396794701%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "2014c2b4-fe26-00b2-8f3c-8a4478c148e5",
+        "embeds": "",
+        "z": 12,
+        "number": null,
+        "objectID": "7a3f23ab-e734-cdb1-7f99-146fd87d8d96"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "bcb59b49-b0b2-08be-2e69-e2d0d0d78053",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "100%",
+              "dy": "75%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "c21ea4e7-1958-740c-88dc-0a298c0d81e1",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "0.10561857288261675%",
+              "dy": "25.269469087158665%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "0aeddd0a-b69d-1d0c-f149-6dbc98576a03",
+        "embeds": "",
+        "z": 15,
+        "number": null,
+        "objectID": "e49a7bd6-7172-6797-f5ec-d7eacdef3f47"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "dashed",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "bcb59b49-b0b2-08be-2e69-e2d0d0d78053",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "0%",
+              "dy": "0%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "x": 160,
+          "y": 364
+        },
+        "id": "8f63a0b4-95ee-3437-d516-335927d091a0",
+        "embeds": "",
+        "z": 17,
+        "number": null,
+        "objectID": "c68db64a-e04e-b71b-a395-cefd6f258d5b"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "dashed",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "fcd4a0ec-97d3-ffb5-d078-5f7c8705f8c0",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "0%",
+              "dy": "100%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "x": 158,
+          "y": 437
+        },
+        "id": "e83a2d05-be88-e4c5-55b6-879cdeca4e80",
+        "embeds": "",
+        "z": 18,
+        "number": null,
+        "objectID": "0bfebb36-8ca0-0a86-ea54-c757fed0afa2"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>logic</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 76.48819160461426,
+          "y": 364.0312500000001
+        },
+        "size": {
+          "width": 83,
+          "height": 72
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "6c51045c-8875-8fd8-7fb3-c0ddd672913e",
+        "z": 19,
+        "objectID": "acac777c-8b7f-d2d2-0ecf-3a8575870375",
+        "number": 14,
+        "labelLayout": {
+          "labelBoxWidth": 75.74531555175781,
+          "fullString": " 414",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": " 414",
+              "width": 22.386510848999023,
+              "x": 26.679402351379395,
+              "y": 22.21659501953125
+            }
+          ],
+          "textWidth": 22.386510848999023,
+          "textHeight": 21.000037499999998
+        }
+      }
+    ],
+    "tpVersion": 2
+  }
+}

@@ -1,0 +1,855 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>network</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 589.1255422656093,
+          "y": 18.390625
+        },
+        "size": {
+          "width": 28.34644317626953,
+          "height": 28.34644317626953
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "a30f7cd1-64ab-4a9b-a37b-eaa9115d6855",
+        "z": 1,
+        "objectID": "86f08fd0-ea84-18ff-d9cd-d4a747ec8371",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "laptop",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 91,
+          "y": 541
+        },
+        "size": {
+          "width": 114.37143542535982,
+          "height": 94.29095439647985
+        },
+        "angle": 0,
+        "label": "<p>client device</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "5f2914c6-dde9-1b62-9ef9-38f958781b55",
+        "z": 2,
+        "objectID": "bd435bad-542b-4406-08af-0df02599cccc",
+        "number": 2,
+        "labelLayout": {
+          "labelBoxWidth": 85.26781463623047,
+          "fullString": "CLIENT DEVICE 1002",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "CLIENT",
+              "width": 41.71160888671875,
+              "x": 21.77810287475586,
+              "y": 0.5214525970459007
+            },
+            {
+              "text": "DEVICE 1002",
+              "width": 75.70594787597656,
+              "x": 4.780933380126953,
+              "y": 21.5214900970459
+            }
+          ],
+          "textWidth": 75.70594787597656,
+          "textHeight": 42.000074999999995
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "laptop",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 501,
+          "y": 493
+        },
+        "size": {
+          "width": 116.47198544187879,
+          "height": 96.0227055551367
+        },
+        "angle": 0,
+        "label": "<p>client device</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "aad0735f-7d21-9ae4-47cb-c4d1b5cc1ef7",
+        "z": 3,
+        "objectID": "f657c48e-1bbd-66d9-acc8-56dacd15101b",
+        "number": 4,
+        "labelLayout": {
+          "labelBoxWidth": 86.8338394165039,
+          "fullString": "CLIENT DEVICE 1004",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "CLIENT",
+              "width": 41.71160888671875,
+              "x": 22.561115264892578,
+              "y": 0.9167143615722679
+            },
+            {
+              "text": "DEVICE 1004",
+              "width": 75.70594787597656,
+              "x": 5.563945770263672,
+              "y": 21.916751861572266
+            }
+          ],
+          "textWidth": 75.70594787597656,
+          "textHeight": 42.000074999999995
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "laptop",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 502,
+          "y": 737
+        },
+        "size": {
+          "width": 116.47198544187879,
+          "height": 96.0227055551367
+        },
+        "angle": 0,
+        "label": "<p>client device</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "9620290b-dc3a-ec10-61aa-fdf2f0bf86ed",
+        "z": 4,
+        "objectID": "8b0913d2-5da7-c71c-cedd-526f6916d25f",
+        "number": 6,
+        "labelLayout": {
+          "labelBoxWidth": 86.8338394165039,
+          "fullString": "CLIENT DEVICE 1006",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "CLIENT",
+              "width": 41.71160888671875,
+              "x": 22.561115264892578,
+              "y": 0.9167143615722679
+            },
+            {
+              "text": "DEVICE 1006",
+              "width": 75.70594787597656,
+              "x": 5.563945770263672,
+              "y": 21.916751861572266
+            }
+          ],
+          "textWidth": 75.70594787597656,
+          "textHeight": 42.000074999999995
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "server",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 335,
+          "y": 550
+        },
+        "size": {
+          "width": 79.37008094787598,
+          "height": 98.26771926879883
+        },
+        "angle": 0,
+        "label": "<p>server</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "bottom",
+        "numberPosition": "position4",
+        "id": "b2db419c-43e9-80cb-0040-57566a11ffcf",
+        "z": 5,
+        "objectID": "9f825cb6-8b5d-29a8-6e9a-0a09127b62ce",
+        "number": 8,
+        "labelLayout": {
+          "labelBoxWidth": 238.63951110839844,
+          "fullString": "SERVER 1008",
+          "lines": [
+            {
+              "text": "SERVER 1008",
+              "width": 78.2206802368164,
+              "x": 80.20941543579102,
+              "y": 0
+            }
+          ],
+          "textWidth": 78.2206802368164,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "server",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 469,
+          "y": 117
+        },
+        "size": {
+          "width": 79.37008094787598,
+          "height": 98.26771926879883
+        },
+        "angle": 0,
+        "label": "<p>server</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "top",
+        "numberPosition": "position4",
+        "id": "1aa62402-9013-424e-6d0c-0f0fef8b8ee3",
+        "z": 6,
+        "objectID": "6d7c0198-0700-db5f-7fb7-92cf3ae5ac22",
+        "number": 10,
+        "labelLayout": {
+          "labelBoxWidth": 238.63951110839844,
+          "fullString": "SERVER 1010",
+          "lines": [
+            {
+              "text": "SERVER 1010",
+              "width": 78.2206802368164,
+              "x": 80.20941543579102,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 78.2206802368164,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "setBox",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 215,
+          "y": 309
+        },
+        "size": {
+          "width": 113.38582992553711,
+          "height": 29.896063823699954
+        },
+        "angle": 0,
+        "label": "<p>router</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "bottom",
+        "numberPosition": "position4",
+        "id": "4c9e0cd0-0368-ea20-bedb-f11e8f10219a",
+        "z": 7,
+        "objectID": "a93f1c06-7d42-307f-6444-d8bdcfe3b687",
+        "number": 12,
+        "labelLayout": {
+          "labelBoxWidth": 340.5165100097656,
+          "fullString": "ROUTER 1012",
+          "lines": [
+            {
+              "text": "ROUTER 1012",
+              "width": 81.7923355102539,
+              "x": 129.36208724975586,
+              "y": 0
+            }
+          ],
+          "textWidth": 81.7923355102539,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cloud",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 36,
+          "y": 317
+        },
+        "size": {
+          "width": 131.4312429228418,
+          "height": 82.0927006268854
+        },
+        "angle": 0,
+        "label": "<p>network</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "1f17f1e4-07bf-b14f-3ee6-f1ff300fd3f3",
+        "z": 8,
+        "objectID": "7224a886-8164-58d8-3dfe-81028929304c",
+        "number": 14,
+        "labelLayout": {
+          "labelBoxWidth": 105.44223022460938,
+          "fullString": "NETWORK 1014",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "NETWORK 1014",
+              "width": 94.62108612060547,
+              "x": 5.410572052001953,
+              "y": 5.066228236389161
+            }
+          ],
+          "textWidth": 94.62108612060547,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cloud",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 409,
+          "y": 314
+        },
+        "size": {
+          "width": 131.4312429228418,
+          "height": 82.0927006268854
+        },
+        "angle": 0,
+        "label": "<p>network</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "27dd6111-5603-4951-d31e-397364d474a0",
+        "z": 9,
+        "objectID": "6614a3d6-3304-2efb-2f6c-8092f34f0aaa",
+        "number": 16,
+        "labelLayout": {
+          "labelBoxWidth": 105.44223022460938,
+          "fullString": "NETWORK 1016",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "NETWORK 1016",
+              "width": 94.62108612060547,
+              "x": 5.410572052001953,
+              "y": 5.066228236389161
+            }
+          ],
+          "textWidth": 94.62108612060547,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cloud",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 98,
+          "y": 91
+        },
+        "size": {
+          "width": 131.4312429228418,
+          "height": 82.0927006268854
+        },
+        "angle": 0,
+        "label": "<p>network</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "c679bcb0-6e28-68df-d883-bf75cca1e7f5",
+        "z": 10,
+        "objectID": "6f3f3428-d300-7fc8-1df1-cef1684ff512",
+        "number": 18,
+        "labelLayout": {
+          "labelBoxWidth": 105.44223022460938,
+          "fullString": "NETWORK 1018",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "NETWORK 1018",
+              "width": 94.62108612060547,
+              "x": 5.410572052001953,
+              "y": 5.066228236389161
+            }
+          ],
+          "textWidth": 94.62108612060547,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "4c9e0cd0-0368-ea20-bedb-f11e8f10219a",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "1%",
+              "dy": "2%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "c679bcb0-6e28-68df-d883-bf75cca1e7f5",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "67.40876820962511%",
+              "dy": "93.99161673548882%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "0ec93af6-10b8-9a75-6496-882e88c8f875",
+        "embeds": "",
+        "z": 11,
+        "number": null,
+        "objectID": "dd0d7f90-e0ff-d379-7bba-a19f0cc3d01f"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "4c9e0cd0-0368-ea20-bedb-f11e8f10219a",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "1%",
+              "dy": "85%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "1f17f1e4-07bf-b14f-3ee6-f1ff300fd3f3",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "99.92403014102851%",
+              "dy": "49.727591625153025%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "1a6e8600-fa53-b227-27ee-eb3897132ef9",
+        "embeds": "",
+        "z": 12,
+        "number": null,
+        "objectID": "52dff28b-91e9-9874-3570-486e895036a0"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "4c9e0cd0-0368-ea20-bedb-f11e8f10219a",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "100%",
+              "dy": "85%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "27dd6111-5603-4951-d31e-397364d474a0",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "0.07598722533603046%",
+              "dy": "49.65653663281665%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "506c416d-7a65-556a-6f8c-11e420c8237e",
+        "embeds": "",
+        "z": 13,
+        "number": null,
+        "objectID": "b91922a3-f356-a64f-6be7-7e9bb42c296d"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "1f17f1e4-07bf-b14f-3ee6-f1ff300fd3f3",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "67%",
+              "dy": "94%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "5f2914c6-dde9-1b62-9ef9-38f958781b55",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "29.089317761123368%",
+              "dy": "0.1058415354871133%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "a176820f-c0aa-9cff-bb33-53ef433e3831",
+        "embeds": "",
+        "z": 14,
+        "number": null,
+        "objectID": "24577e47-81bf-8ff6-9ddb-c4d0ae1b6213"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "27dd6111-5603-4951-d31e-397364d474a0",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "36%",
+              "dy": "0%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "1aa62402-9013-424e-6d0c-0f0fef8b8ee3",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "25.345788218359605%",
+              "dy": "99.89844117627233%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "fdaa33f3-b918-a555-da0b-b927d8e429d2",
+        "embeds": "",
+        "z": 15,
+        "number": null,
+        "objectID": "75b20550-0b7d-c778-ea93-6da29c480821"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "27dd6111-5603-4951-d31e-397364d474a0",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "39%",
+              "dy": "100%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "b2db419c-43e9-80cb-0040-57566a11ffcf",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "74.68119144626291%",
+              "dy": "0.10156661151840381%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "a4c61309-cf98-83f2-b0a0-38fa7836175e",
+        "embeds": "",
+        "z": 16,
+        "number": null,
+        "objectID": "4cb437e8-fe4a-0572-a337-8f56fec1c1d3"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "b2db419c-43e9-80cb-0040-57566a11ffcf",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "100%",
+              "dy": "22%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "aad0735f-7d21-9ae4-47cb-c4d1b5cc1ef7",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "3.187391033901263%",
+              "dy": "81.35544515923996%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "09589807-dda6-dafb-fb98-1f422d6624e6",
+        "embeds": "",
+        "z": 17,
+        "number": null,
+        "objectID": "900d653d-e7b8-51b5-19fd-eeaa2c2fcb79"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "b2db419c-43e9-80cb-0040-57566a11ffcf",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "100%",
+              "dy": "21%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "9620290b-dc3a-ec10-61aa-fdf2f0bf86ed",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "6.865145888149361%",
+              "dy": "46.87254391379062%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "13fbd8c3-dc05-343e-fe2a-6883e034d233",
+        "embeds": "",
+        "z": 18,
+        "number": null,
+        "objectID": "cd9eebaa-d16f-b630-bc65-7e64b52b94f9",
+        "vertices": [
+          {
+            "x": 452,
+            "y": 571
+          },
+          {
+            "x": 454,
+            "y": 782
+          }
+        ]
+      }
+    ],
+    "tpVersion": 2
+  }
+}
