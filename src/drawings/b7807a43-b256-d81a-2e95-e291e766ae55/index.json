@@ -9,7 +9,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "<p>electrical and logic components</p>",
+        "name": "<p>electrical, logical, mathmatical symbols</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 826.7941627502441,
@@ -812,6 +812,118 @@
         "id": "10e9a040-4093-4293-8ddf-a354479e7584",
         "z": 31,
         "objectID": "0e08e066-cfcf-1ab7-ffb7-5f34ddd48b28",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 759,
+          "y": 505.5000343322754
+        },
+        "size": {
+          "width": 23,
+          "height": 23
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "svg": "<svg viewBox=\"0 0 17.17 17.17\" xmlns=\"http://www.w3.org/2000/svg\"><title>times</title><g data-name=\"Layer 2\" id=\"Layer_2\"><line stroke-width=\"3\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke=\"#231f20\" fill=\"none\" y2=\"1.5\" x2=\"15.67\" y1=\"15.67\" x1=\"1.5\"></line><line stroke-width=\"3\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke=\"#231f20\" fill=\"none\" y2=\"1.5\" x2=\"1.5\" y1=\"15.67\" x1=\"15.67\"></line></g></svg>",
+        "id": "82d736f3-44d7-41f8-918c-0bbc773a0851",
+        "z": 32,
+        "objectID": "de1ba395-dcd9-00b5-9ae7-d582034f4ed8",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 671.5,
+          "y": 505.5000343322754
+        },
+        "size": {
+          "width": 23,
+          "height": 23
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "svg": "<svg viewBox=\"0 0 17.17 17.17\" xmlns=\"http://www.w3.org/2000/svg\"><title>plus</title><g data-name=\"Layer 2\" id=\"Layer_2\"><line stroke-width=\"3\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke=\"#231f20\" fill=\"none\" y2=\"8.59\" x2=\"15.67\" y1=\"8.59\" x1=\"1.5\"></line><line stroke-width=\"3\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke=\"#231f20\" fill=\"none\" y2=\"1.5\" x2=\"8.59\" y1=\"15.67\" x1=\"8.59\"></line></g></svg>",
+        "id": "906d15de-57fc-4cc6-8607-957743194424",
+        "z": 33,
+        "objectID": "686d6123-7b96-74d6-a5f3-abfa0ce9d8c0",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 596,
+          "y": 515.006700998942
+        },
+        "size": {
+          "width": 23,
+          "height": 3.9866666666666664
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "svg": "<svg viewBox=\"0 0 17.17 3\" xmlns=\"http://www.w3.org/2000/svg\"><title>minus</title><g data-name=\"Layer 2\" id=\"Layer_2\"><line stroke-width=\"3\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke=\"#231f20\" fill=\"none\" y2=\"1.5\" x2=\"15.67\" y1=\"1.5\" x1=\"1.5\"></line></g></svg>",
+        "id": "96106187-dde5-40b6-86f4-6f873153c0b3",
+        "z": 34,
+        "objectID": "8b1524f4-8ed2-91bf-c4e8-f464ba6dbf67",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 517.5,
+          "y": 509.9592180057448
+        },
+        "size": {
+          "width": 23,
+          "height": 14.081632653061225
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "svg": "<svg viewBox=\"0 0 17.17 10.5\" xmlns=\"http://www.w3.org/2000/svg\"><title>equal</title><g data-name=\"Layer 2\" id=\"Layer_2\"><line stroke-width=\"3\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke=\"#231f20\" fill=\"none\" y2=\"1.5\" x2=\"15.67\" y1=\"1.5\" x1=\"1.5\"></line><line stroke-width=\"3\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke=\"#231f20\" fill=\"none\" y2=\"9\" x2=\"15.67\" y1=\"9\" x1=\"1.5\"></line></g></svg>",
+        "id": "60c6772c-ebbc-4178-8408-6f8eba583d6e",
+        "z": 35,
+        "objectID": "e6868d13-f4ea-86a8-4763-bdd7da3c5254",
         "number": null
       }
     ],

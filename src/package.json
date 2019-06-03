@@ -22,7 +22,7 @@
       "<p>illustrates an embodiment of a <span data-role=\"tag\" data-value=\"56220b1f-ef9c-ede4-bac7-c47677e816fb\" id=\"id08bb5b1b-b20a-321e-ce6f-b4c42cd78ebe\" data-type=\"drawingObject\">digital apparatus 400</span>&nbsp;to&nbsp;implement components and process steps of the system&nbsp;described&nbsp;herein.</p>",
       "<p>illustrates a <span data-role=\"tag\" data-value=\"3cdaec81-8a01-226a-d500-122a9bc00a55\" id=\"ide4c3d55a-37ec-1025-4fa3-494f99bf3e42\" data-type=\"drawingObject\">mobile device 500</span> in accordance with one embodiment.</p>",
       "<p>illustrates an <span data-type=\"drawingObject\" id=\"id6d4bf7d2-61b2-046f-8265-dd88c380ce90\" data-value=\"2a50b2ea-020b-b500-abd1-fc07e367d46d\" data-role=\"tag\">arrays 600</span> in accordance with one embodiment.</p>",
-      "<p>illustrates an <span id=\"id4694f051-6468-b3bc-c052-cdd9fb97a3e8\" data-value=\"4dbfa7ed-9a49-336d-2d62-f4ea88cd8dc8\" data-type=\"drawingObject\" data-role=\"tag\">electrical and logic components 700</span> in accordance with one embodiment.</p>",
+      "<p>illustrates an <span id=\"id4694f051-6468-b3bc-c052-cdd9fb97a3e8\" data-value=\"4dbfa7ed-9a49-336d-2d62-f4ea88cd8dc8\" data-type=\"drawingObject\" data-role=\"tag\">electrical, logical, mathmatical symbols 700</span> in accordance with one embodiment.</p>",
       "<p>illustrates a <span data-role=\"tag\" data-value=\"ea6a4b5d-cc26-37ac-6d01-b209512eb944\" id=\"id6b0ccf18-979a-68f4-73c5-31d406d8941c\" data-type=\"drawingObject\">mobile device 800</span> in accordance with one embodiment.</p>",
       "<p>illustrates a <span data-role=\"tag\" data-value=\"f60b2049-5cfb-01d8-4ba8-b5078d6b11fc\" id=\"id158de6c5-834f-9d2e-d352-0a016d08855a\" data-type=\"drawingObject\">mobile device 900</span> in accordance with one embodiment.</p>",
       "<p>illustrates a <span data-role=\"tag\" data-value=\"61384dc4-848d-1f77-aea4-aaeab5d8da04\" id=\"id09fcbd7d-f889-087a-310b-5763aff1c589\" data-type=\"drawingObject\">mobile device 1000</span> in accordance with one embodiment.</p>",
@@ -571,10 +571,6 @@
         "number": 2008
       },
       {
-        "name": "",
-        "number": 2010
-      },
-      {
         "name": "block diagram",
         "number": 2100
       },
@@ -675,7 +671,7 @@
         "number": 2148
       },
       {
-        "name": "api calls",
+        "name": "API calls",
         "number": 2150
       },
       {
@@ -819,6 +815,10 @@
         "number": 2320
       },
       {
+        "name": "",
+        "number": 2322
+      },
+      {
         "name": "item",
         "number": 2400
       },
@@ -931,7 +931,7 @@
         "number": 600
       },
       {
-        "name": "electrical and logic components",
+        "name": "electrical, logical, mathmatical symbols",
         "number": 700
       },
       {
