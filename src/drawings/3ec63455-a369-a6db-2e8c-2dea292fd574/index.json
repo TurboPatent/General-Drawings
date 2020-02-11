@@ -27,7 +27,8 @@
         "id": "b7a5e8b2-e62c-4cde-a2a2-ff4c44e1738e",
         "z": 1,
         "objectID": "61384dc4-848d-1f77-aea4-aaeab5d8da04",
-        "number": 0
+        "number": 0,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -36,7 +37,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>navigation board</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 370.2440958023067,
@@ -73,7 +74,8 @@
           ],
           "textWidth": 144.89732360839844,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -131,7 +133,8 @@
           ],
           "textWidth": 79.26850128173828,
           "textHeight": 63.00011249999999
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -140,7 +143,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>motor control</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 441.9999999999998,
@@ -189,7 +192,8 @@
           ],
           "textWidth": 57.68379211425781,
           "textHeight": 63.00011249999999
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -235,7 +239,8 @@
           ],
           "textWidth": 82.37547302246094,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -287,7 +292,8 @@
           ],
           "textWidth": 110.48390197753906,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -333,7 +339,8 @@
           ],
           "textWidth": 82.37547302246094,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -342,7 +349,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>battery</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 506.9972915649414,
@@ -379,12 +386,14 @@
           ],
           "textWidth": 74.57613372802734,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -426,6 +435,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "25a89a9d-9749-5103-9aa1-bb80736dff0a",
         "embeds": "",
         "z": 10,
@@ -486,7 +496,8 @@
           ],
           "textWidth": 76.36197662353516,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -544,12 +555,14 @@
           ],
           "textWidth": 78.5760498046875,
           "textHeight": 63.00011249999999
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "target",
+        "linkStart": "none",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -591,6 +604,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "35bf1231-2bc3-0a61-7055-8f37dc8b606a",
         "embeds": "",
         "z": 20,
@@ -647,12 +661,14 @@
           ],
           "textWidth": 68.480712890625,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -694,6 +710,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "a625bfe2-1f15-66c0-46cf-cf6337b227b2",
         "embeds": "",
         "z": 34,
@@ -707,7 +724,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>GPU</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 75.51180839538574,
@@ -744,7 +761,8 @@
           ],
           "textWidth": 52.563228607177734,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -753,7 +771,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>other transducers</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 267.2440958023067,
@@ -802,7 +820,8 @@
           ],
           "textWidth": 87.7146987915039,
           "textHeight": 63.00011249999999
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -811,7 +830,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>DSP</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 75.51180839538574,
@@ -848,12 +867,14 @@
           ],
           "textWidth": 49.984718322753906,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -895,6 +916,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "ed84bb1e-5861-04e1-486e-5e0c04c2fd5e",
         "embeds": "",
         "z": 41,
@@ -904,7 +926,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "target",
+        "linkStart": "none",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -946,6 +969,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "a0e35025-bf54-9d65-5dfc-5094798e807c",
         "embeds": "",
         "z": 42,
@@ -959,7 +983,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>altimeter</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 382,
@@ -1002,7 +1026,8 @@
           ],
           "textWidth": 65.2734603881836,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -1011,7 +1036,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>gyroscope</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 492,
@@ -1054,12 +1079,14 @@
           ],
           "textWidth": 73.04547882080078,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1101,6 +1128,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "64433717-f43a-cc74-b20c-c1e30eba653d",
         "embeds": "",
         "z": 45,
@@ -1110,7 +1138,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1152,6 +1181,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "433ff43f-5332-8cd2-1b27-40409612d969",
         "embeds": "",
         "z": 46,
@@ -1171,7 +1201,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1213,6 +1244,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "1815fb15-a600-2236-81dd-2522c780b6f3",
         "embeds": "",
         "z": 47,
@@ -1222,7 +1254,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1264,6 +1297,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "93b29697-a8b1-bb2e-7ee6-5e831cf4f0d3",
         "embeds": "",
         "z": 48,
@@ -1271,6 +1305,9 @@
         "objectID": "c78edc51-c664-2e75-972f-a24ec982794d"
       }
     ],
-    "tpVersion": 2
+    "tpVersion": 4
+  },
+  "migrations": {
+    "briefDescriptionFigureTag": true
   }
 }

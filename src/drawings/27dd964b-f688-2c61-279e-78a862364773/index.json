@@ -77,7 +77,8 @@
         "id": "a3473618-ca13-4216-88de-d60d5e801258",
         "z": 1,
         "objectID": "c204dbc2-2bcc-877c-b8a2-e88cb95f3b78",
-        "number": 0
+        "number": 0,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -86,7 +87,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>network</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 238,
@@ -125,7 +126,8 @@
           ],
           "textWidth": 61.26454544067383,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -174,12 +176,14 @@
           ],
           "textWidth": 44.8641357421875,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -221,6 +225,7 @@
             }
           }
         },
+        "arrowheads": null,
         "embeds": "",
         "id": "9ef2b121-2e2e-5c3c-163b-bc012f148ac1",
         "number": null,
@@ -234,7 +239,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>client device</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 399.8051088273259,
@@ -280,12 +285,14 @@
           ],
           "textWidth": 42.349403381347656,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -327,6 +334,7 @@
             }
           }
         },
+        "arrowheads": null,
         "embeds": "",
         "id": "6d2d0467-ff45-1b0d-2fd2-0544564a6ff9",
         "number": null,
@@ -336,7 +344,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -381,6 +390,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "ae1169a9-b53d-3082-57fe-20684a50f053",
         "embeds": "",
         "z": 8,
@@ -391,7 +401,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "neither",
+        "linkStart": "none",
+        "linkEnd": "none",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "curved",
@@ -429,11 +440,15 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "73cf7d6b-018f-4bfb-bd6e-544f7d901c3a",
         "z": 9,
         "objectID": "3d81c183-8e84-cbe1-c414-eea06b9e1fbb"
       }
     ],
-    "tpVersion": 2
+    "tpVersion": 4
+  },
+  "migrations": {
+    "briefDescriptionFigureTag": true
   }
 }

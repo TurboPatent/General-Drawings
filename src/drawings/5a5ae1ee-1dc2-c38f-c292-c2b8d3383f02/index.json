@@ -27,7 +27,8 @@
         "id": "c81cd8cb-b763-4685-bb35-5817b8f76f4f",
         "z": 1,
         "objectID": "60c394ab-cc1e-317a-5e9e-eee2ae938121",
-        "number": 0
+        "number": 0,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -82,7 +83,7 @@
         "isNumbered": false,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": null,
+        "name": "<p>operating environment</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 424,
@@ -128,7 +129,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>application</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 61.999999999998465,
@@ -162,7 +163,8 @@
           ],
           "textWidth": 110.2196273803711,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -171,7 +173,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>web browser</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 341.99999999999926,
@@ -205,7 +207,8 @@
           ],
           "textWidth": 125.91848754882812,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -214,7 +217,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>application logic</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 95,
@@ -248,7 +251,8 @@
           ],
           "textWidth": 150.9745635986328,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -257,7 +261,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>application logic</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 353.99999999999955,
@@ -291,7 +295,8 @@
           ],
           "textWidth": 150.9745635986328,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -300,7 +305,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>presentation controller</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 94.99999999999966,
@@ -340,7 +345,8 @@
           ],
           "textWidth": 171.2199249267578,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -349,7 +355,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>presentation controller</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 353.9999999999997,
@@ -383,7 +389,8 @@
           ],
           "textWidth": 204.57647705078125,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -392,7 +399,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>subsystem</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 293,
@@ -426,7 +433,8 @@
           ],
           "textWidth": 105.57286834716797,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -435,7 +443,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>GUI subsystem</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 52.999999999999915,
@@ -469,7 +477,8 @@
           ],
           "textWidth": 131.9045867919922,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -478,7 +487,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>SAA</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 368,
@@ -512,7 +521,8 @@
           ],
           "textWidth": 55.5425910949707,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -521,7 +531,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>network stack</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 58,
@@ -555,7 +565,8 @@
           ],
           "textWidth": 133.06173706054688,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -564,7 +575,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>graphics subsystem</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 100,
@@ -598,7 +609,8 @@
           ],
           "textWidth": 170.226806640625,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -607,7 +619,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>application protocol service</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 58,
@@ -641,7 +653,8 @@
           ],
           "textWidth": 229.99703979492188,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -650,7 +663,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>input driver</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 443,
@@ -690,7 +703,8 @@
           ],
           "textWidth": 83.78771209716797,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -699,7 +713,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>content manager</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 354,
@@ -733,7 +747,8 @@
           ],
           "textWidth": 156.01315307617188,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -742,7 +757,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>content handler</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 475,
@@ -782,7 +797,8 @@
           ],
           "textWidth": 90.69408416748047,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -791,7 +807,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>UI element&nbsp;handler</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 127,
@@ -831,7 +847,8 @@
           ],
           "textWidth": 90.69408416748047,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -840,7 +857,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>UI element&nbsp;handler</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 439,
@@ -880,12 +897,14 @@
           ],
           "textWidth": 90.69408416748047,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "neither",
+        "linkStart": "none",
+        "linkEnd": "none",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -927,6 +946,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "78a98e48-261a-a204-0a2d-b1a202c61adc",
         "embeds": "",
         "z": 16,
@@ -934,6 +954,9 @@
         "objectID": "0fc5a873-a46c-6b11-01a1-c294ad8dd944"
       }
     ],
-    "tpVersion": 2
+    "tpVersion": 4
+  },
+  "migrations": {
+    "briefDescriptionFigureTag": true
   }
 }

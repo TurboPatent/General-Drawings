@@ -9,7 +9,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>cloud</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 92.99999999999932,
@@ -43,7 +43,8 @@
           ],
           "textWidth": 75.28685760498047,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -70,7 +71,8 @@
         "id": "bf64f4c2-9ae2-48b3-862c-794227e78a3a",
         "z": 1,
         "objectID": "882941c4-24fb-b07b-fa44-351e47d8587f",
-        "number": 0
+        "number": 0,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -79,7 +81,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>gateway</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 287,
@@ -113,7 +115,8 @@
           ],
           "textWidth": 87.41398620605469,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -122,7 +125,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>OE A</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 207,
@@ -156,7 +159,8 @@
           ],
           "textWidth": 61.15517807006836,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -165,7 +169,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>network</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 298,
@@ -199,7 +203,8 @@
           ],
           "textWidth": 94.62108612060547,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -208,7 +213,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>OE B</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 414,
@@ -242,7 +247,8 @@
           ],
           "textWidth": 62.011653900146484,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -251,7 +257,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>OE C</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 166,
@@ -285,12 +291,14 @@
           ],
           "textWidth": 61.58342361450195,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -332,6 +340,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "d2ebcc18-ba9b-8afb-15b6-709178570f37",
         "embeds": "",
         "z": 5,
@@ -341,7 +350,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -383,6 +393,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "099c5e91-377d-7aa7-6b17-8af8171209f0",
         "embeds": "",
         "z": 6,
@@ -390,6 +401,9 @@
         "objectID": "afcb88f7-1719-0e6f-0dab-3f2b915115f5"
       }
     ],
-    "tpVersion": 2
+    "tpVersion": 4
+  },
+  "migrations": {
+    "briefDescriptionFigureTag": true
   }
 }

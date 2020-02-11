@@ -9,7 +9,7 @@
         "isNumbered": false,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": null,
+        "name": "<p><br></p>",
         "lockAspectRatio": false,
         "position": {
           "x": 18,
@@ -76,7 +76,8 @@
         "id": "47307804-a31f-4a7c-8e6c-23046e61fa08",
         "z": 1,
         "objectID": "f60b2049-5cfb-01d8-4ba8-b5078d6b11fc",
-        "number": 0
+        "number": 0,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -124,7 +125,8 @@
           ],
           "textWidth": 0,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -172,7 +174,8 @@
           ],
           "textWidth": 0,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -221,7 +224,8 @@
           ],
           "textWidth": 79.26850128173828,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -276,7 +280,8 @@
           ],
           "textWidth": 60.025360107421875,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -285,7 +290,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>SIM</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 396,
@@ -325,7 +330,8 @@
           ],
           "textWidth": 23.889881134033203,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -334,7 +340,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>speaker</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 444.75590419769287,
@@ -374,7 +380,8 @@
           ],
           "textWidth": 52.23519515991211,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -383,7 +390,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>vibration generator</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 97.99999999999989,
@@ -430,12 +437,14 @@
           ],
           "textWidth": 71.85186767578125,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -477,6 +486,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "4ea7d1e8-5ea5-8fe1-7e98-a02981e4f557",
         "embeds": "",
         "z": 4,
@@ -486,7 +496,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "target",
+        "linkStart": "none",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -528,6 +539,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "65daa9f4-a251-f76f-d931-48b0027343f7",
         "embeds": "",
         "z": 6,
@@ -581,7 +593,8 @@
           ],
           "textWidth": 56.48109817504883,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -630,7 +643,8 @@
           ],
           "textWidth": 110.48390197753906,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -639,7 +653,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>battery</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 518.9972915649414,
@@ -679,12 +693,14 @@
           ],
           "textWidth": 48.681758880615234,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -726,6 +742,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "03cd1192-9fe4-a4b0-86eb-2a0dd25e9e74",
         "embeds": "",
         "z": 10,
@@ -745,7 +762,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -787,6 +805,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "e9f878e7-e2b0-de5d-7008-b6ea1c22bf75",
         "embeds": "",
         "z": 13,
@@ -800,7 +819,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>user interface</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 43,
@@ -846,12 +865,14 @@
           ],
           "textWidth": 63.64253616333008,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -893,6 +914,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "42b37af6-bdb4-d2fe-9196-4ca1e93120bd",
         "embeds": "",
         "z": 16,
@@ -946,7 +968,8 @@
           ],
           "textWidth": 50.46760559082031,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -1001,12 +1024,14 @@
           ],
           "textWidth": 78.5760498046875,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1048,6 +1073,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "98b1d733-e93c-9145-6dc9-796959e76675",
         "embeds": "",
         "z": 20,
@@ -1057,7 +1083,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1099,6 +1126,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "ebb641f1-28bc-d34b-74f2-05c8ed0766e8",
         "embeds": "",
         "z": 22,
@@ -1158,12 +1186,14 @@
           ],
           "textWidth": 60.025360107421875,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1205,6 +1235,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "3b1a4afb-29ea-5140-b939-aeb3dea106a7",
         "embeds": "",
         "z": 26,
@@ -1214,7 +1245,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1256,6 +1288,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "2bdb637c-7c0d-5a7c-9492-25b5c82d9e61",
         "embeds": "",
         "z": 29,
@@ -1265,7 +1298,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1307,6 +1341,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "e58b8d78-37ec-9e43-84f3-aae680a8e036",
         "embeds": "",
         "z": 31,
@@ -1320,7 +1355,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>audio driver</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 448,
@@ -1360,12 +1395,14 @@
           ],
           "textWidth": 85.90153503417969,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1407,6 +1444,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "10c78e62-df65-2185-cdf7-5feee746f25c",
         "embeds": "",
         "z": 34,
@@ -1416,7 +1454,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1458,6 +1497,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "79a8b609-6e8d-8801-cb33-756afba2404d",
         "embeds": "",
         "z": 36,
@@ -1471,7 +1511,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>haptic driver</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 97.99999999999989,
@@ -1517,12 +1557,14 @@
           ],
           "textWidth": 43.187660217285156,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1564,6 +1606,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "dd6ee653-b903-d716-f55d-01f399b63326",
         "embeds": "",
         "z": 39,
@@ -1573,7 +1616,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "target",
+        "linkStart": "none",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1615,6 +1659,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "46ee5ac7-5e59-d07d-4ce2-58fbadbe0b75",
         "embeds": "",
         "z": 40,
@@ -1622,6 +1667,9 @@
         "objectID": "3e8ee15c-e411-ec6a-cdbd-1f72152212ca"
       }
     ],
-    "tpVersion": 2
+    "tpVersion": 4
+  },
+  "migrations": {
+    "briefDescriptionFigureTag": true
   }
 }

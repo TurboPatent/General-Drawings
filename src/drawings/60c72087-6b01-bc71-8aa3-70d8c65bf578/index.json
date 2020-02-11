@@ -46,7 +46,8 @@
           ],
           "textWidth": 37.228858947753906,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -119,7 +120,8 @@
         "id": "143ad46b-a5e2-43fb-b4e6-29ad7bfcc2dc",
         "z": 1,
         "objectID": "5e9c9565-8a4f-e567-2e89-1130142a8319",
-        "number": 0
+        "number": 0,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -128,7 +130,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>monitor or graphical user interface</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 231.56679367235682,
@@ -174,7 +176,8 @@
           ],
           "textWidth": 102.86680603027344,
           "textHeight": 63.00011249999999
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -183,7 +186,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>processor(s)</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 170,
@@ -223,7 +226,8 @@
           ],
           "textWidth": 90.33878326416016,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -232,7 +236,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>output device(s)</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 494,
@@ -272,7 +276,8 @@
           ],
           "textWidth": 85.91063690185547,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -281,7 +286,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>input device(s)</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 328.27100213419294,
@@ -321,7 +326,8 @@
           ],
           "textWidth": 85.91063690185547,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -330,7 +336,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>volatile memory</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 312,
@@ -370,7 +376,8 @@
           ],
           "textWidth": 82.37547302246094,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -425,7 +432,8 @@
           ],
           "textWidth": 63.64253616333008,
           "textHeight": 63.00011249999999
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -434,7 +442,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>nonvolatile memory</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 456,
@@ -474,7 +482,8 @@
           ],
           "textWidth": 82.894775390625,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -521,7 +530,8 @@
           ],
           "textWidth": 0,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -802,12 +812,14 @@
           ],
           "textWidth": 61.26454544067383,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -849,6 +861,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "de9f5f9f-7299-45a1-530d-506c81d448d7",
         "embeds": "",
         "z": 22,
@@ -858,7 +871,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -900,6 +914,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "c74249b1-ddb2-4ed5-d478-690e25e39206",
         "embeds": "",
         "z": 23,
@@ -909,7 +924,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -951,6 +967,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "aef67ceb-8c29-eb22-b40d-4e1229be66b1",
         "embeds": "",
         "z": 24,
@@ -960,7 +977,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1002,6 +1020,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "f55e9b85-5965-4bab-399f-cfbd4eb78335",
         "embeds": "",
         "z": 25,
@@ -1011,7 +1030,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1053,6 +1073,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "8833551b-e3e6-6003-fb01-00cac93c4c27",
         "embeds": "",
         "z": 26,
@@ -1062,7 +1083,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1104,6 +1126,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "c99915e3-40eb-e1f8-0625-7151ab65a56c",
         "embeds": "",
         "z": 27,
@@ -1113,7 +1136,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1155,6 +1179,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "b2c2ea52-11e2-82d8-615a-43bb2a987ded",
         "embeds": "",
         "z": 28,
@@ -1170,7 +1195,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1212,6 +1238,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "7df2aeaf-9a13-4094-97a5-4229ba9f32bc",
         "embeds": "",
         "z": 29,
@@ -1227,7 +1254,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "neither",
+        "linkStart": "none",
+        "linkEnd": "none",
         "strokeStyle": "dashed",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1262,6 +1290,7 @@
           "x": 470,
           "y": 105
         },
+        "arrowheads": null,
         "id": "c6ebba67-550a-7157-a2f4-77c6d8a10f14",
         "embeds": "",
         "z": 30,
@@ -1271,7 +1300,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "neither",
+        "linkStart": "none",
+        "linkEnd": "none",
         "strokeStyle": "dashed",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1306,6 +1336,7 @@
           "x": 581,
           "y": 132
         },
+        "arrowheads": null,
         "id": "ff5e444d-f7ec-49d3-85d7-d1a90b93309a",
         "embeds": "",
         "z": 33,
@@ -1353,9 +1384,13 @@
           ],
           "textWidth": 22.386510848999023,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       }
     ],
-    "tpVersion": 2
+    "tpVersion": 4
+  },
+  "migrations": {
+    "briefDescriptionFigureTag": true
   }
 }

@@ -9,7 +9,7 @@
         "isNumbered": false,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": null,
+        "name": "<p><br></p>",
         "lockAspectRatio": false,
         "position": {
           "x": 15,
@@ -76,7 +76,8 @@
         "id": "c4c89438-093f-4f77-a9e4-953d098bdd91",
         "z": 1,
         "objectID": "ea6a4b5d-cc26-37ac-6d01-b209512eb944",
-        "number": 0
+        "number": 0,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -124,7 +125,8 @@
           ],
           "textWidth": 0,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -173,7 +175,8 @@
           ],
           "textWidth": 79.26850128173828,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -228,12 +231,14 @@
           ],
           "textWidth": 60.025360107421875,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "target",
+        "linkStart": "none",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -275,6 +280,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "65faa10d-d39e-b629-68e0-a99e7cdbb3ad",
         "embeds": "",
         "z": 4,
@@ -284,7 +290,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "target",
+        "linkStart": "none",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -326,6 +333,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "c05e30e0-8e3d-339d-e8d2-a4eb663db4b9",
         "embeds": "",
         "z": 5,
@@ -335,7 +343,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "target",
+        "linkStart": "none",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -377,6 +386,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "1b40d7c6-18ac-a79d-abbd-36fc15e7ffbf",
         "embeds": "",
         "z": 6,
@@ -430,7 +440,8 @@
           ],
           "textWidth": 56.48109817504883,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -479,7 +490,8 @@
           ],
           "textWidth": 110.48390197753906,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -488,7 +500,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>battery</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 506.9972915649414,
@@ -528,12 +540,14 @@
           ],
           "textWidth": 48.681758880615234,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -575,6 +589,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "e2564591-d868-95d2-4092-364c16531e3d",
         "embeds": "",
         "z": 10,
@@ -594,7 +609,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -636,6 +652,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "0e5040bb-9faf-f3ac-3492-a0c019252c02",
         "embeds": "",
         "z": 13,
@@ -649,7 +666,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>user interface</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 31,
@@ -695,12 +712,14 @@
           ],
           "textWidth": 63.64253616333008,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -742,6 +761,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "24e6ec4c-0619-d98f-23ef-a9dddbc3f081",
         "embeds": "",
         "z": 16,
@@ -795,7 +815,8 @@
           ],
           "textWidth": 50.46760559082031,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -850,12 +871,14 @@
           ],
           "textWidth": 78.5760498046875,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -897,6 +920,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "5999451f-30ce-7f48-0776-52b543a9a3eb",
         "embeds": "",
         "z": 20,
@@ -906,7 +930,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -948,6 +973,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "5ab5cf53-145d-e23d-468a-fd4406568b26",
         "embeds": "",
         "z": 22,
@@ -955,6 +981,9 @@
         "objectID": "02bd2d96-7838-08f7-5bb1-232c5d139ce4"
       }
     ],
-    "tpVersion": 2
+    "tpVersion": 4
+  },
+  "migrations": {
+    "briefDescriptionFigureTag": true
   }
 }

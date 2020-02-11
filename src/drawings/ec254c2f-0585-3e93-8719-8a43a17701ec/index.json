@@ -9,7 +9,7 @@
         "isNumbered": false,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": null,
+        "name": "<p><br></p>",
         "lockAspectRatio": false,
         "position": {
           "x": 105,
@@ -76,7 +76,8 @@
         "id": "719f398d-0ea2-487d-a53f-aa94478214e1",
         "z": 1,
         "objectID": "3cdaec81-8a01-226a-d500-122a9bc00a55",
-        "number": 0
+        "number": 0,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -124,7 +125,8 @@
           ],
           "textWidth": 0,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -133,7 +135,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "<p>signal processing and system control logic</p>",
+        "name": "<p>control logic</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 322.9999999999995,
@@ -179,7 +181,8 @@
           ],
           "textWidth": 57.68379211425781,
           "textHeight": 42.000074999999995
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -188,7 +191,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": "<p>wireless communication</p>",
+        "name": "<p>wireless communication logic</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 121.25590419769256,
@@ -240,12 +243,14 @@
           ],
           "textWidth": 109.40876007080078,
           "textHeight": 63.00011249999999
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "target",
+        "linkStart": "none",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -287,6 +292,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "17228e79-22c3-7690-6250-e2acceed090a",
         "embeds": "",
         "z": 4,
@@ -296,7 +302,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "target",
+        "linkStart": "none",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -338,6 +345,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "0f4e03f9-b4c3-11fb-88dd-ef6d1254a6c0",
         "embeds": "",
         "z": 5,
@@ -347,7 +355,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "target",
+        "linkStart": "none",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -389,6 +398,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "7b09ad5b-b54c-00cb-4336-1d3a213429bc",
         "embeds": "",
         "z": 6,
@@ -442,7 +452,8 @@
           ],
           "textWidth": 56.48109817504883,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -491,7 +502,8 @@
           ],
           "textWidth": 110.48390197753906,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -500,7 +512,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": null,
+        "name": "<p>battery</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 611.9972915649414,
@@ -540,12 +552,14 @@
           ],
           "textWidth": 48.681758880615234,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -587,6 +601,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "2029f07c-9fab-1a21-38cd-563d351cbac4",
         "embeds": "",
         "z": 10,
@@ -606,7 +621,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -648,6 +664,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "20d33331-1759-57a9-2c62-b1931d42b742",
         "embeds": "",
         "z": 13,
@@ -661,7 +678,7 @@
         "isNumbered": true,
         "outsideNumbers": true,
         "displayCase": "uppercase",
-        "name": null,
+        "name": "<p>user interface logic</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 136,
@@ -713,12 +730,14 @@
           ],
           "textWidth": 63.64253616333008,
           "textHeight": 63.00011249999999
-        }
+        },
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -760,6 +779,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "8fedd6a8-ce3b-26d4-60e2-e64befdda98a",
         "embeds": "",
         "z": 17,
@@ -815,9 +835,13 @@
           ],
           "textWidth": 0,
           "textHeight": 21.000037499999998
-        }
+        },
+        "pluralName": ""
       }
     ],
-    "tpVersion": 2
+    "tpVersion": 4
+  },
+  "migrations": {
+    "briefDescriptionFigureTag": true
   }
 }

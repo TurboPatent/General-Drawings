@@ -16,30 +16,30 @@
       "glossaryCount": 0
     },
     "briefDescriptions": [
-      "<p>illustrates a&nbsp;simplified <span></span>&nbsp;<span data-role=\"tag\" data-value=\"c204dbc2-2bcc-877c-b8a2-e88cb95f3b78\" id=\"id52d705bd-f381-494a-498b-49982911d9b6\" data-type=\"drawingObject\">system 100</span> in which a <span id=\"id55bb0740-b516-d572-14cd-38cf08ab8b1b\" data-value=\"b558368c-ea0c-e829-3801-964db27e4f7d\" data-type=\"drawingObject\" data-role=\"tag\">server 104</span>&nbsp;and a <span id=\"id188d2623-fbcb-bdb7-d3e7-6b73d7b691c3\" data-value=\"5c13d553-74fe-f3d4-dd47-c1966f54035a\" data-type=\"drawingObject\" data-role=\"tag\">client device 106</span> are communicatively coupled via a <span id=\"idb4b6772b-2831-cbd7-6b70-023447e70fdd\" data-value=\"3d8370fa-f858-e4e4-f64a-4ec4b3fac717\" data-type=\"drawingObject\" data-role=\"tag\">network 102</span>.</p>",
-      "<p>is an example block diagram of a <span data-role=\"tag\" data-value=\"5e9c9565-8a4f-e567-2e89-1130142a8319\" id=\"id90541249-5458-9a55-7b0c-4d4a67ff8787\" data-type=\"drawingObject\">computing device 200</span>&nbsp;that may incorporate embodiments&nbsp;of the present invention.</p>",
-      "<p>illustrates a <span data-role=\"tag\" data-value=\"9e60cdde-dfe8-5f7a-8bde-7097892fafca\" id=\"id65fa90cc-dfeb-56f0-a961-091f14375db2\" data-type=\"drawingObject\">system 300</span> in accordance with one embodiment.</p>",
-      "<p>illustrates an embodiment of a <span data-role=\"tag\" data-value=\"56220b1f-ef9c-ede4-bac7-c47677e816fb\" id=\"id08bb5b1b-b20a-321e-ce6f-b4c42cd78ebe\" data-type=\"drawingObject\">digital apparatus 400</span>&nbsp;to&nbsp;implement components and process steps of the system&nbsp;described&nbsp;herein.</p>",
-      "<p>illustrates a <span data-role=\"tag\" data-value=\"3cdaec81-8a01-226a-d500-122a9bc00a55\" id=\"ide4c3d55a-37ec-1025-4fa3-494f99bf3e42\" data-type=\"drawingObject\">mobile device 500</span> in accordance with one embodiment.</p>",
-      "<p>illustrates an <span data-type=\"drawingObject\" id=\"id6d4bf7d2-61b2-046f-8265-dd88c380ce90\" data-value=\"2a50b2ea-020b-b500-abd1-fc07e367d46d\" data-role=\"tag\">arrays 600</span> in accordance with one embodiment.</p>",
-      "<p>illustrates an <span id=\"id4694f051-6468-b3bc-c052-cdd9fb97a3e8\" data-value=\"4dbfa7ed-9a49-336d-2d62-f4ea88cd8dc8\" data-type=\"drawingObject\" data-role=\"tag\">electrical, logical, mathmatical symbols 700</span> in accordance with one embodiment.</p>",
-      "<p>illustrates a <span data-role=\"tag\" data-value=\"ea6a4b5d-cc26-37ac-6d01-b209512eb944\" id=\"id6b0ccf18-979a-68f4-73c5-31d406d8941c\" data-type=\"drawingObject\">mobile device 800</span> in accordance with one embodiment.</p>",
-      "<p>illustrates a <span data-role=\"tag\" data-value=\"f60b2049-5cfb-01d8-4ba8-b5078d6b11fc\" id=\"id158de6c5-834f-9d2e-d352-0a016d08855a\" data-type=\"drawingObject\">mobile device 900</span> in accordance with one embodiment.</p>",
-      "<p>illustrates a <span data-role=\"tag\" data-value=\"61384dc4-848d-1f77-aea4-aaeab5d8da04\" id=\"id09fcbd7d-f889-087a-310b-5763aff1c589\" data-type=\"drawingObject\">mobile device 1000</span> in accordance with one embodiment.</p>",
-      "<p>illustrates a <span data-role=\"tag\" data-value=\"86f08fd0-ea84-18ff-d9cd-d4a747ec8371\" id=\"id6d4bfb91-bf57-7e28-a51f-fde0bc372fd3\" data-type=\"drawingObject\">network 1100</span> in accordance with one embodiment.</p>",
-      "<p>illustrates a <span data-role=\"tag\" data-value=\"188b6981-1e57-bb56-9312-13de0788ed92\" id=\"id25179573-8bfd-4ac2-6a41-449396cdec6c\" data-type=\"drawingObject\">computing environment 1200</span> in accordance with one embodiment.</p>",
-      "<p>illustrates a <span data-role=\"tag\" data-value=\"c077b779-c3ed-002a-1073-38d459663dd7\" id=\"idc213f332-a938-01aa-d39d-6523883a4c9f\" data-type=\"drawingObject\">system 1300</span> in accordance with one embodiment.</p>",
-      "<p>illustrates a <span data-role=\"tag\" data-value=\"dcebd564-4ec3-e4ee-5c0c-e57a4b90a216\" id=\"iddb6fef99-5e0e-cacf-86a7-7e2d2631eba7\" data-type=\"drawingObject\">system 1400</span> in accordance with one embodiment.</p>",
-      "<p>illustrates a <span data-role=\"tag\" data-value=\"882941c4-24fb-b07b-fa44-351e47d8587f\" id=\"idcf7d4afc-6f84-80d0-7481-0f06372e2ea4\" data-type=\"drawingObject\">system 1500</span> in accordance with one embodiment.</p>",
-      "<p>illustrates a <span data-role=\"tag\" data-value=\"3d2fa3c0-6e9d-8f39-e6d7-51351915a476\" id=\"id7bb2a27d-171b-ab38-09ec-ecd66c2dc5bb\" data-type=\"drawingObject\">computing environment 1600</span> in accordance with one embodiment.</p>",
-      "<p>illustrates an <span data-role=\"tag\" data-value=\"60c394ab-cc1e-317a-5e9e-eee2ae938121\" id=\"idb3aebff1-0e95-5271-074d-465120eb1e74\" data-type=\"drawingObject\">operating environment 1700</span> in accordance with one embodiment.</p>",
-      "<p>illustrates a <span data-role=\"tag\" data-value=\"cf41536a-2486-c124-31dd-816f0310a1b8\" id=\"id5148e6a9-b20b-a2f7-7a02-38db5aa207e1\" data-type=\"drawingObject\">computing environment 1800</span> in accordance with one embodiment.</p>",
-      "<p>illustrates an <span data-role=\"tag\" data-value=\"ca72c05b-e5cc-aec6-6d73-14a210aa910f\" id=\"id608b2782-1817-2a46-87af-aac549002f78\" data-type=\"drawingObject\">item 1900</span> in accordance with one embodiment.</p>",
-      "<p>illustrates an <span data-role=\"tag\" data-value=\"68089922-8e91-b25c-1db9-b8a3933be3fe\" id=\"ida54922ed-8dd1-aaad-14e9-2acd116ef4d4\" data-type=\"drawingObject\">item 2000</span> in accordance with one embodiment.</p>",
-      "<p>illustrates an aspect of the subject matter in accordance with one embodiment.</p>",
-      "<p>illustrates a diagrammatic representation of a <span id=\"id0b870b3c-ba91-25c4-3ba4-2d973e6e3a91\" data-value=\"e864a3fb-e084-889e-12f5-b76be64bd0f5\" data-type=\"drawingObject\" data-role=\"tag\">machine 2200</span> in the form of a computer system within which a set of instructions may be executed for causing the machine to perform any one or more of the methodologies discussed herein, according to an example embodiment.</p>",
-      "<p>illustrates an <span id=\"idf6a5c033-6489-9b75-abbf-3e05c6069296\" data-value=\"255ad54d-65cd-0ca2-4a4c-87c1efe09164\" data-type=\"drawingObject\" data-role=\"tag\">item 2300</span> in accordance with one embodiment.</p>",
-      "<p>illustrates an <span id=\"idf56e307e-3c35-89aa-6008-25ea8cd99db9\" data-value=\"101c9a5c-13bb-b279-6855-f2c98da470d9\" data-type=\"drawingObject\" data-role=\"tag\">item 2400</span> in accordance with one embodiment.</p>"
+      "<p><span data-role=\"tag\" data-value=\"27dd964b-f688-2c61-279e-78a862364773\" id=\"idbb69c632-3b3c-823f-17dd-d6ee23927397\" data-type=\"figure\">FIG. 1</span> illustrates a&nbsp;simplified <span></span>&nbsp;<span data-role=\"tag\" data-value=\"c204dbc2-2bcc-877c-b8a2-e88cb95f3b78\" id=\"id52d705bd-f381-494a-498b-49982911d9b6\" data-type=\"drawingObject\">system 100</span> in which a <span id=\"id55bb0740-b516-d572-14cd-38cf08ab8b1b\" data-value=\"b558368c-ea0c-e829-3801-964db27e4f7d\" data-type=\"drawingObject\" data-role=\"tag\">server 104</span>&nbsp;and a <span id=\"id188d2623-fbcb-bdb7-d3e7-6b73d7b691c3\" data-value=\"5c13d553-74fe-f3d4-dd47-c1966f54035a\" data-type=\"drawingObject\" data-role=\"tag\">client device 106</span> are communicatively coupled via a <span id=\"idb4b6772b-2831-cbd7-6b70-023447e70fdd\" data-value=\"3d8370fa-f858-e4e4-f64a-4ec4b3fac717\" data-type=\"drawingObject\" data-role=\"tag\">network 102</span>.</p>",
+      "<p><span data-role=\"tag\" data-value=\"60c72087-6b01-bc71-8aa3-70d8c65bf578\" id=\"idd521469b-6883-86b2-3f5d-9bb022d26a0f\" data-type=\"figure\">FIG. 2</span> is an example block diagram of a <span data-role=\"tag\" data-value=\"5e9c9565-8a4f-e567-2e89-1130142a8319\" id=\"id90541249-5458-9a55-7b0c-4d4a67ff8787\" data-type=\"drawingObject\">computing device 200</span>&nbsp;that may incorporate embodiments&nbsp;of the present invention.</p>",
+      "<p><span data-role=\"tag\" data-value=\"8c3e1073-7cf9-4e92-2e4e-979e08c354d5\" id=\"id5a11d6db-2c88-75b9-f3f5-57ab55fc45ca\" data-type=\"figure\">FIG. 3</span> illustrates a <span data-role=\"tag\" data-value=\"9e60cdde-dfe8-5f7a-8bde-7097892fafca\" id=\"id65fa90cc-dfeb-56f0-a961-091f14375db2\" data-type=\"drawingObject\">system 300</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"0b8dbb1b-5687-b4b9-bae5-27c3993d8013\" id=\"id03504d70-c538-0bd8-84d3-921abcea3743\" data-type=\"figure\">FIG. 4</span> illustrates an embodiment of a <span data-role=\"tag\" data-value=\"56220b1f-ef9c-ede4-bac7-c47677e816fb\" id=\"id08bb5b1b-b20a-321e-ce6f-b4c42cd78ebe\" data-type=\"drawingObject\">digital apparatus 400</span>&nbsp;to&nbsp;implement components and process steps of the system&nbsp;described&nbsp;herein.</p>",
+      "<p><span data-role=\"tag\" data-value=\"ec254c2f-0585-3e93-8719-8a43a17701ec\" id=\"idc81993d8-d826-5415-162b-c8661f8c14d5\" data-type=\"figure\">FIG. 5</span> illustrates a <span data-role=\"tag\" data-value=\"3cdaec81-8a01-226a-d500-122a9bc00a55\" id=\"ide4c3d55a-37ec-1025-4fa3-494f99bf3e42\" data-type=\"drawingObject\">mobile device 500</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"ce2f5752-05db-7160-2b4c-0fd72e641d0c\" id=\"id0b158608-881a-93d4-efcf-18acbf5796d8\" data-type=\"figure\">FIG. 6</span> illustrates an <span data-type=\"drawingObject\" id=\"id6d4bf7d2-61b2-046f-8265-dd88c380ce90\" data-value=\"2a50b2ea-020b-b500-abd1-fc07e367d46d\" data-role=\"tag\">arrays 600</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"b7807a43-b256-d81a-2e95-e291e766ae55\" id=\"idf99dc412-9b5a-b9d8-faf9-893cf4bd0209\" data-type=\"figure\">FIG. 7</span> illustrates an <span id=\"id4694f051-6468-b3bc-c052-cdd9fb97a3e8\" data-value=\"4dbfa7ed-9a49-336d-2d62-f4ea88cd8dc8\" data-type=\"drawingObject\" data-role=\"tag\">electrical and logic components 700</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"b1474419-787d-8e0d-8ea9-880108b2e3d5\" id=\"id96cb5738-8af5-89b6-f154-ac5c817e17f0\" data-type=\"figure\">FIG. 8</span> illustrates a <span data-role=\"tag\" data-value=\"ea6a4b5d-cc26-37ac-6d01-b209512eb944\" id=\"id6b0ccf18-979a-68f4-73c5-31d406d8941c\" data-type=\"drawingObject\">mobile device 800</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"67480b81-9fcd-f37c-cb73-4358a364a681\" id=\"id2a29b496-1d11-5d7e-93cc-88cc4e6530cb\" data-type=\"figure\">FIG. 9</span> illustrates a <span data-role=\"tag\" data-value=\"f60b2049-5cfb-01d8-4ba8-b5078d6b11fc\" id=\"id158de6c5-834f-9d2e-d352-0a016d08855a\" data-type=\"drawingObject\">mobile device 900</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"3ec63455-a369-a6db-2e8c-2dea292fd574\" id=\"id54b9f1f5-3fbd-df8a-5e09-2de7d56cfd30\" data-type=\"figure\">FIG. 10</span> illustrates a <span data-role=\"tag\" data-value=\"61384dc4-848d-1f77-aea4-aaeab5d8da04\" id=\"id09fcbd7d-f889-087a-310b-5763aff1c589\" data-type=\"drawingObject\">mobile device 1000</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"7cca51f2-9faa-e1d3-7bed-a51271aef57d\" id=\"id7ff7690e-5ca1-ac68-f979-9ce6dcf8dac9\" data-type=\"figure\">FIG. 11</span> illustrates a <span data-role=\"tag\" data-value=\"86f08fd0-ea84-18ff-d9cd-d4a747ec8371\" id=\"id6d4bfb91-bf57-7e28-a51f-fde0bc372fd3\" data-type=\"drawingObject\">network 1100</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"295ca4aa-eba5-8985-b5b2-ce56f36cbb94\" id=\"id183eacdb-84c9-b82d-d379-c510fee1e5d1\" data-type=\"figure\">FIG. 12</span> illustrates a <span data-role=\"tag\" data-value=\"188b6981-1e57-bb56-9312-13de0788ed92\" id=\"id25179573-8bfd-4ac2-6a41-449396cdec6c\" data-type=\"drawingObject\">computing environment 1200</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"80fa5a14-f87c-6795-ae4c-73db913ef184\" id=\"iddd952f6f-ab5b-bb9e-6f3e-ef647f595ff3\" data-type=\"figure\">FIG. 13</span> illustrates a <span data-role=\"tag\" data-value=\"c077b779-c3ed-002a-1073-38d459663dd7\" id=\"idc213f332-a938-01aa-d39d-6523883a4c9f\" data-type=\"drawingObject\">system 1300</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"533030dc-54cd-d275-ea73-be70a0e9793f\" id=\"id1acc190c-0852-8c12-5b20-42c4dc1298d5\" data-type=\"figure\">FIG. 14</span> illustrates a <span data-role=\"tag\" data-value=\"dcebd564-4ec3-e4ee-5c0c-e57a4b90a216\" id=\"iddb6fef99-5e0e-cacf-86a7-7e2d2631eba7\" data-type=\"drawingObject\">system 1400</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"e36a1c29-70bc-148a-c87c-3a4b8f432843\" id=\"id04af2c4c-7666-f369-bac8-1d0353f1eed7\" data-type=\"figure\">FIG. 15</span> illustrates a <span data-role=\"tag\" data-value=\"882941c4-24fb-b07b-fa44-351e47d8587f\" id=\"idcf7d4afc-6f84-80d0-7481-0f06372e2ea4\" data-type=\"drawingObject\">system 1500</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"38fe6f8b-3f4d-f058-1c36-4d52e198aa2e\" id=\"ida1b1766a-7e61-fb1a-3cf7-3f05e0dd2711\" data-type=\"figure\">FIG. 16</span> illustrates a <span data-role=\"tag\" data-value=\"3d2fa3c0-6e9d-8f39-e6d7-51351915a476\" id=\"id7bb2a27d-171b-ab38-09ec-ecd66c2dc5bb\" data-type=\"drawingObject\">computing environment 1600</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"5a5ae1ee-1dc2-c38f-c292-c2b8d3383f02\" id=\"idbd08271e-3361-7df9-a212-0b2deaf5c0d1\" data-type=\"figure\">FIG. 17</span> illustrates an <span data-role=\"tag\" data-value=\"60c394ab-cc1e-317a-5e9e-eee2ae938121\" id=\"idb3aebff1-0e95-5271-074d-465120eb1e74\" data-type=\"drawingObject\">operating environment 1700</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"00203bee-23f2-5fb0-d901-277cb53e4ff4\" id=\"id2f130950-5a16-2bab-c143-3f5b4f4c1a69\" data-type=\"figure\">FIG. 18</span> illustrates a <span data-role=\"tag\" data-value=\"cf41536a-2486-c124-31dd-816f0310a1b8\" id=\"id5148e6a9-b20b-a2f7-7a02-38db5aa207e1\" data-type=\"drawingObject\">computing environment 1800</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"ed282ca2-da64-4854-aad2-c49ce525ff4c\" id=\"id315e6bb4-1ada-8a42-2fe2-8a8bb7973cce\" data-type=\"figure\">FIG. 19</span> illustrates an <span data-role=\"tag\" data-value=\"ca72c05b-e5cc-aec6-6d73-14a210aa910f\" id=\"id608b2782-1817-2a46-87af-aac549002f78\" data-type=\"drawingObject\">item 1900</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"74095f44-6e93-8f9c-87ed-2a16e48d63cd\" id=\"id504197aa-8059-d7e5-1c3e-a6ea65d79511\" data-type=\"figure\">FIG. 20</span> illustrates an <span data-role=\"tag\" data-value=\"68089922-8e91-b25c-1db9-b8a3933be3fe\" id=\"ida54922ed-8dd1-aaad-14e9-2acd116ef4d4\" data-type=\"drawingObject\">item 2000</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"f7539dcf-308b-a2f7-3e48-a83b6a9a8280\" id=\"idc5269c5a-da72-414c-eb89-a72f8da76eb4\" data-type=\"figure\">FIG. 21</span> illustrates an aspect of the subject matter in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"fce80a25-990b-5a01-235d-a53712958093\" id=\"iddd76bd62-5b8c-32f8-3432-1b889b3018cc\" data-type=\"figure\">FIG. 22</span> illustrates a diagrammatic representation of a <span id=\"id0b870b3c-ba91-25c4-3ba4-2d973e6e3a91\" data-value=\"e864a3fb-e084-889e-12f5-b76be64bd0f5\" data-type=\"drawingObject\" data-role=\"tag\">machine 2200</span> in the form of a computer system within which a set of instructions may be executed for causing the machine to perform any one or more of the methodologies discussed herein, according to an example embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"f6d2f94e-3b2e-5179-91bd-2accb10d4e82\" id=\"id201c1924-2b4e-3b0e-7f61-0fb0ef6d65ef\" data-type=\"figure\">FIG. 23</span> illustrates an <span id=\"idf6a5c033-6489-9b75-abbf-3e05c6069296\" data-value=\"255ad54d-65cd-0ca2-4a4c-87c1efe09164\" data-type=\"drawingObject\" data-role=\"tag\">item 2300</span> in accordance with one embodiment.</p>",
+      "<p><span data-role=\"tag\" data-value=\"65c1dbca-4ba3-e0df-4447-4b1ebab70504\" id=\"id30020436-51e6-c54a-0267-89933f232a22\" data-type=\"figure\">FIG. 24</span> illustrates an <span id=\"idf56e307e-3c35-89aa-6008-25ea8cd99db9\" data-value=\"101c9a5c-13bb-b279-6855-f2c98da470d9\" data-type=\"drawingObject\" data-role=\"tag\">item 2400</span> in accordance with one embodiment.</p>"
     ],
     "parts": [
       {
@@ -571,6 +571,10 @@
         "number": 2008
       },
       {
+        "name": "",
+        "number": 2010
+      },
+      {
         "name": "block diagram",
         "number": 2100
       },
@@ -671,7 +675,7 @@
         "number": 2148
       },
       {
-        "name": "API calls",
+        "name": "api calls",
         "number": 2150
       },
       {
@@ -815,10 +819,6 @@
         "number": 2320
       },
       {
-        "name": "",
-        "number": 2322
-      },
-      {
         "name": "item",
         "number": 2400
       },
@@ -931,7 +931,7 @@
         "number": 600
       },
       {
-        "name": "electrical, logical, mathmatical symbols",
+        "name": "electrical and logic components",
         "number": 700
       },
       {
@@ -1044,7 +1044,7 @@
       }
     ],
     "terms": [
-      "inventive"
+      null
     ],
     "glossary": []
   },

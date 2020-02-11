@@ -28,7 +28,8 @@
         "id": "cf11dcb8-b5cd-f136-6aee-6357a06dbd90",
         "z": 1,
         "objectID": "e864a3fb-e084-889e-12f5-b76be64bd0f5",
-        "number": 0
+        "number": 0,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -37,7 +38,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>processors</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 6.999999999999545,
@@ -56,7 +57,8 @@
         "id": "7ae7be6c-2b52-59c6-5cfe-540344b85f3f",
         "z": 2,
         "objectID": "1b99a922-9d89-d40e-7648-979e389fae17",
-        "number": 2
+        "number": 2,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -65,7 +67,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>memory</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 251.99999999999943,
@@ -84,7 +86,8 @@
         "id": "2498c9ad-912f-ef34-d408-c8b4638ef6e0",
         "z": 3,
         "objectID": "94fc41ea-29a8-efd3-f428-44af1236d733",
-        "number": 4
+        "number": 4,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -121,7 +124,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>processor</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 16.9999999999998,
@@ -140,7 +143,8 @@
         "id": "01732f3d-7b2b-3911-64fb-8151dc2f61f3",
         "z": 6,
         "objectID": "8af32d05-dcdf-a91f-b4e8-c1b23eadb74a",
-        "number": 6
+        "number": 6,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -149,7 +153,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>instructions</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 22.999999999999915,
@@ -168,7 +172,8 @@
         "id": "93c6af50-9283-3c65-0853-dd9222f9ca5c",
         "z": 7,
         "objectID": "4a0aa986-6bf4-cc5f-44f7-e35b45cb57f1",
-        "number": 8
+        "number": 8,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -177,7 +182,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>processor</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 14.999999999999716,
@@ -196,7 +201,8 @@
         "id": "6538fb01-1f4f-e258-8617-aa936030e4dd",
         "z": 7,
         "objectID": "467ba6b9-32ca-7990-8d81-390f47794f82",
-        "number": 10
+        "number": 10,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -205,7 +211,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>instructions</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 20,
@@ -224,7 +230,8 @@
         "id": "4728704d-528d-5857-5575-e3f6e00d4714",
         "z": 8,
         "objectID": "4a0aa986-6bf4-cc5f-44f7-e35b45cb57f1",
-        "number": 8
+        "number": 8,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -233,7 +240,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>main memory</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 267,
@@ -252,7 +259,8 @@
         "id": "ade38521-9151-30ff-6246-14edca75f7f2",
         "z": 9,
         "objectID": "cfacb9d9-6754-57c4-051a-5f605c40b17f",
-        "number": 12
+        "number": 12,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -261,7 +269,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>static memory</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 435,
@@ -280,7 +288,8 @@
         "id": "db5cc95b-928d-aee9-d7cd-8305dd22deaf",
         "z": 10,
         "objectID": "7be87de0-5753-9682-f1dd-e28ccfdaf977",
-        "number": 14
+        "number": 14,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -289,7 +298,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>storage unit</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 268,
@@ -308,7 +317,8 @@
         "id": "5009608c-464c-f71b-e2a8-2f2dfa8da422",
         "z": 11,
         "objectID": "8da49fe6-1d5a-3007-b1e5-c6e8d2cd9926",
-        "number": 16
+        "number": 16,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -317,7 +327,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>machine-readable medium</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 274,
@@ -336,7 +346,8 @@
         "id": "cc147a14-7c25-6b94-d6d8-efb2a9eb89d0",
         "z": 12,
         "objectID": "7ae9bff6-a17f-bc8d-376c-41d918e67e2b",
-        "number": 18
+        "number": 18,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -345,7 +356,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>instructions</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 279,
@@ -364,7 +375,8 @@
         "id": "d805d3b4-174b-c9a0-54e7-0cd004d5e611",
         "z": 13,
         "objectID": "4a0aa986-6bf4-cc5f-44f7-e35b45cb57f1",
-        "number": 8
+        "number": 8,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -373,7 +385,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>instructions</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 274,
@@ -392,7 +404,8 @@
         "id": "740fde97-7644-0f1c-efce-644d7ba92b8f",
         "z": 14,
         "objectID": "4a0aa986-6bf4-cc5f-44f7-e35b45cb57f1",
-        "number": 8
+        "number": 8,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -401,7 +414,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>instructions</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 441,
@@ -420,7 +433,8 @@
         "id": "4bd7ed9d-aa74-febc-0457-5cc7ff78b78c",
         "z": 15,
         "objectID": "4a0aa986-6bf4-cc5f-44f7-e35b45cb57f1",
-        "number": 8
+        "number": 8,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -429,7 +443,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>network</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 430.81102695465086,
@@ -448,7 +462,8 @@
         "id": "a3ec425a-68b0-5831-d072-674d2c7a391c",
         "z": 16,
         "objectID": "73cb76bf-8dd1-0044-d808-7528d5d39e2f",
-        "number": 20
+        "number": 20,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -457,7 +472,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>devices</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 143,
@@ -476,7 +491,8 @@
         "id": "c27efd96-9bc0-7094-2745-2ac5c6f00113",
         "z": 17,
         "objectID": "0dde57f6-d993-5df8-cf3b-6dcf22fc5263",
-        "number": 22
+        "number": 22,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -507,7 +523,8 @@
         "id": "01d4a4a4-2e1a-f5f8-92d4-6fe406bd989d",
         "z": 18,
         "objectID": "bc65098c-d784-84cf-a6e6-a9582d5fe143",
-        "number": 24
+        "number": 24,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -538,7 +555,8 @@
         "id": "446fdee1-8f37-ddd2-d885-536797fc0aee",
         "z": 19,
         "objectID": "27f9e5de-4ac0-088b-68b2-6d6498e0fe08",
-        "number": 26
+        "number": 26,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -566,7 +584,8 @@
         "id": "eff03425-8271-7059-5df2-294bb78c04fb",
         "z": 20,
         "objectID": "9f0a071b-3ef4-9147-455d-88a16e0cf0ee",
-        "number": 28
+        "number": 28,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -594,7 +613,8 @@
         "id": "bb46390a-5bc7-f7f0-d895-6942fc95f165",
         "z": 21,
         "objectID": "069d8723-9fbe-a20b-cf7c-47a7c1b65a14",
-        "number": 30
+        "number": 30,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -622,7 +642,8 @@
         "id": "40afae84-33fe-f24f-7fa2-69d9d3cb155f",
         "z": 22,
         "objectID": "226a883c-95fd-1b27-0b27-d87f4a0a6802",
-        "number": 32
+        "number": 32,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -650,7 +671,8 @@
         "id": "363a0340-9520-26d4-7609-28198483931e",
         "z": 23,
         "objectID": "7b23aabf-cc89-1742-3a20-a6ec1284d58b",
-        "number": 34
+        "number": 34,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -678,7 +700,8 @@
         "id": "30d69a62-2c7d-3300-6c30-15aec920d4c3",
         "z": 24,
         "objectID": "5d4887dc-09eb-a3a9-7143-b4a15670099f",
-        "number": 36
+        "number": 36,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -706,7 +729,8 @@
         "id": "e7e6b101-1e54-9eea-9d27-26e09079d935",
         "z": 25,
         "objectID": "5ec4845d-a73b-4d02-8100-a33946b9643a",
-        "number": 38
+        "number": 38,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -734,7 +758,8 @@
         "id": "d1f0ae22-1847-ac49-dd37-8537c2b85926",
         "z": 26,
         "objectID": "e31df740-443d-170c-7526-ee2e201a2a49",
-        "number": 40
+        "number": 40,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -743,7 +768,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>wired</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 107,
@@ -771,7 +796,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>near field</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 108,
@@ -799,7 +824,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>visual</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 107,
@@ -827,7 +852,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>wireless</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 260,
@@ -855,7 +880,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>acoustic</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 107,
@@ -883,7 +908,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>alphanumeric</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 260,
@@ -911,7 +936,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>expression</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 412,
@@ -939,7 +964,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>acceleration</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 105,
@@ -967,7 +992,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>bluetooth</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 259,
@@ -995,7 +1020,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>cellular</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 411,
@@ -1023,7 +1048,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>haptic</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 107,
@@ -1051,7 +1076,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>point based</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 260,
@@ -1079,7 +1104,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>biosignals</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 412,
@@ -1107,7 +1132,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>gravitation</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 105,
@@ -1135,7 +1160,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>illumination</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 260,
@@ -1163,7 +1188,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>location</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 408,
@@ -1191,7 +1216,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>wi-fi</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 411,
@@ -1219,7 +1244,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>tactile</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 260,
@@ -1247,7 +1272,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>identification</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 412,
@@ -1275,7 +1300,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>rotation</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 105,
@@ -1303,7 +1328,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>acoustic</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 260,
@@ -1331,7 +1356,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>altitude</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 408,
@@ -1359,7 +1384,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>audio</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 261,
@@ -1387,7 +1412,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>temperature</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 260,
@@ -1415,7 +1440,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>orientation</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 408,
@@ -1443,7 +1468,7 @@
         "isNumbered": false,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>pressure</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 260,
@@ -1551,7 +1576,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1593,6 +1619,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "51086634-eb42-d56c-1599-bebaf33ea1d4",
         "embeds": "",
         "z": 37,
@@ -1608,7 +1635,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1650,6 +1678,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "08fb002a-183a-bf71-3ca5-4be866bc0055",
         "embeds": "",
         "z": 39,
@@ -1665,7 +1694,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1707,6 +1737,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "3b4d4c19-9c6c-d519-4f5b-2504186226b0",
         "embeds": "",
         "z": 40,
@@ -1717,7 +1748,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1759,6 +1791,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "d16b7051-5f17-a97b-bb1b-dbbbd0548f95",
         "embeds": "",
         "z": 41,
@@ -1769,7 +1802,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1811,6 +1845,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "f7d9a61e-c75d-a53d-6f44-ec7111bfb247",
         "embeds": "",
         "z": 42,
@@ -1825,7 +1860,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>I/O components</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 183,
@@ -1844,12 +1879,14 @@
         "id": "1fa449ff-09d0-c5c6-0f89-35b44c701238",
         "z": 43,
         "objectID": "a90caeca-ad1e-bfb7-4223-2ebbf2112079",
-        "number": 42
+        "number": 42,
+        "pluralName": ""
       },
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1891,6 +1928,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "1f886c23-f3d3-a865-7931-1554d33eb0a7",
         "embeds": "",
         "z": 44,
@@ -1906,7 +1944,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1941,6 +1980,7 @@
           "x": 586,
           "y": 335
         },
+        "arrowheads": null,
         "id": "6fb9162f-1b8b-5647-bfdb-4b85e0949b24",
         "embeds": "",
         "z": 45,
@@ -1956,7 +1996,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "target",
+        "linkStart": "none",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -1998,6 +2039,7 @@
             }
           }
         },
+        "arrowheads": null,
         "id": "3d8f7299-c751-8b71-a029-e3a63dde97ce",
         "embeds": "",
         "z": 46,
@@ -2133,7 +2175,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p>bus</p>",
         "lockAspectRatio": false,
         "position": {
           "x": 265,
@@ -2152,7 +2194,8 @@
         "id": "078406ac-2f9b-b308-4185-bea9ae31f80b",
         "z": 51,
         "objectID": "f1bec888-4ba3-19a9-c50c-b91989224a78",
-        "number": 44
+        "number": 44,
+        "pluralName": ""
       },
       {
         "type": "tp.Element",
@@ -2185,7 +2228,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -2220,6 +2264,7 @@
           "x": 80,
           "y": 333
         },
+        "arrowheads": null,
         "id": "12b72499-67a9-b632-1ff7-edd52dc3d025",
         "embeds": "",
         "z": 53,
@@ -2263,7 +2308,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -2298,6 +2344,7 @@
           "x": 171,
           "y": 336
         },
+        "arrowheads": null,
         "id": "f3178874-abf1-d9f8-807e-6f6a6745b10c",
         "embeds": "",
         "z": 55,
@@ -2307,7 +2354,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -2342,6 +2390,7 @@
           "x": 64,
           "y": 335
         },
+        "arrowheads": null,
         "id": "178e7582-21b6-dc89-ea17-7d167d743e70",
         "embeds": "",
         "z": 56,
@@ -2357,7 +2406,8 @@
       {
         "type": "tp.Link",
         "isNumbered": false,
-        "arrowheads": "both",
+        "linkStart": "arrow",
+        "linkEnd": "arrow",
         "strokeStyle": "solid",
         "displayCase": "uppercase",
         "routing": "straight",
@@ -2392,6 +2442,7 @@
           "x": 46,
           "y": 334
         },
+        "arrowheads": null,
         "id": "c0997414-e3e0-1005-63dd-1b4980ec022a",
         "embeds": "",
         "z": 57,
@@ -2433,6 +2484,9 @@
         "objectID": "73f491b5-61d5-21c3-bbe4-b0f8d7fdfe7b"
       }
     ],
-    "tpVersion": 2
+    "tpVersion": 4
+  },
+  "migrations": {
+    "briefDescriptionFigureTag": true
   }
 }

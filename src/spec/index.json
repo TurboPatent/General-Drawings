@@ -1,0 +1,178 @@
+{
+  "documentMap": [
+    {
+      "path": "spec/cross-reference.html"
+    },
+    {
+      "path": "spec/background.html"
+    },
+    {
+      "path": "spec/brief-summary.html"
+    },
+    {
+      "path": "spec/brief-description-front-matter.html"
+    },
+    {
+      "path": "drawings/27dd964b-f688-2c61-279e-78a862364773/brief-description.html"
+    },
+    {
+      "path": "drawings/60c72087-6b01-bc71-8aa3-70d8c65bf578/brief-description.html"
+    },
+    {
+      "path": "drawings/8c3e1073-7cf9-4e92-2e4e-979e08c354d5/brief-description.html"
+    },
+    {
+      "path": "drawings/0b8dbb1b-5687-b4b9-bae5-27c3993d8013/brief-description.html"
+    },
+    {
+      "path": "drawings/ec254c2f-0585-3e93-8719-8a43a17701ec/brief-description.html"
+    },
+    {
+      "path": "drawings/ce2f5752-05db-7160-2b4c-0fd72e641d0c/brief-description.html"
+    },
+    {
+      "path": "drawings/b7807a43-b256-d81a-2e95-e291e766ae55/brief-description.html"
+    },
+    {
+      "path": "drawings/b1474419-787d-8e0d-8ea9-880108b2e3d5/brief-description.html"
+    },
+    {
+      "path": "drawings/67480b81-9fcd-f37c-cb73-4358a364a681/brief-description.html"
+    },
+    {
+      "path": "drawings/3ec63455-a369-a6db-2e8c-2dea292fd574/brief-description.html"
+    },
+    {
+      "path": "drawings/7cca51f2-9faa-e1d3-7bed-a51271aef57d/brief-description.html"
+    },
+    {
+      "path": "drawings/295ca4aa-eba5-8985-b5b2-ce56f36cbb94/brief-description.html"
+    },
+    {
+      "path": "drawings/80fa5a14-f87c-6795-ae4c-73db913ef184/brief-description.html"
+    },
+    {
+      "path": "drawings/533030dc-54cd-d275-ea73-be70a0e9793f/brief-description.html"
+    },
+    {
+      "path": "drawings/e36a1c29-70bc-148a-c87c-3a4b8f432843/brief-description.html"
+    },
+    {
+      "path": "drawings/38fe6f8b-3f4d-f058-1c36-4d52e198aa2e/brief-description.html"
+    },
+    {
+      "path": "drawings/5a5ae1ee-1dc2-c38f-c292-c2b8d3383f02/brief-description.html"
+    },
+    {
+      "path": "drawings/00203bee-23f2-5fb0-d901-277cb53e4ff4/brief-description.html"
+    },
+    {
+      "path": "drawings/ed282ca2-da64-4854-aad2-c49ce525ff4c/brief-description.html"
+    },
+    {
+      "path": "drawings/74095f44-6e93-8f9c-87ed-2a16e48d63cd/brief-description.html"
+    },
+    {
+      "path": "drawings/f7539dcf-308b-a2f7-3e48-a83b6a9a8280/brief-description.html"
+    },
+    {
+      "path": "drawings/fce80a25-990b-5a01-235d-a53712958093/brief-description.html"
+    },
+    {
+      "path": "drawings/f6d2f94e-3b2e-5179-91bd-2accb10d4e82/brief-description.html"
+    },
+    {
+      "path": "drawings/65c1dbca-4ba3-e0df-4447-4b1ebab70504/brief-description.html"
+    },
+    {
+      "path": "spec/detailed-description-intro.html"
+    },
+    {
+      "path": "drawings/27dd964b-f688-2c61-279e-78a862364773/detailed-description.html"
+    },
+    {
+      "path": "drawings/60c72087-6b01-bc71-8aa3-70d8c65bf578/detailed-description.html"
+    },
+    {
+      "path": "drawings/8c3e1073-7cf9-4e92-2e4e-979e08c354d5/detailed-description.html"
+    },
+    {
+      "path": "drawings/0b8dbb1b-5687-b4b9-bae5-27c3993d8013/detailed-description.html"
+    },
+    {
+      "path": "drawings/ec254c2f-0585-3e93-8719-8a43a17701ec/detailed-description.html"
+    },
+    {
+      "path": "drawings/ce2f5752-05db-7160-2b4c-0fd72e641d0c/detailed-description.html"
+    },
+    {
+      "path": "drawings/b7807a43-b256-d81a-2e95-e291e766ae55/detailed-description.html"
+    },
+    {
+      "path": "drawings/b1474419-787d-8e0d-8ea9-880108b2e3d5/detailed-description.html"
+    },
+    {
+      "path": "drawings/67480b81-9fcd-f37c-cb73-4358a364a681/detailed-description.html"
+    },
+    {
+      "path": "drawings/3ec63455-a369-a6db-2e8c-2dea292fd574/detailed-description.html"
+    },
+    {
+      "path": "drawings/7cca51f2-9faa-e1d3-7bed-a51271aef57d/detailed-description.html"
+    },
+    {
+      "path": "drawings/295ca4aa-eba5-8985-b5b2-ce56f36cbb94/detailed-description.html"
+    },
+    {
+      "path": "drawings/80fa5a14-f87c-6795-ae4c-73db913ef184/detailed-description.html"
+    },
+    {
+      "path": "drawings/533030dc-54cd-d275-ea73-be70a0e9793f/detailed-description.html"
+    },
+    {
+      "path": "drawings/e36a1c29-70bc-148a-c87c-3a4b8f432843/detailed-description.html"
+    },
+    {
+      "path": "drawings/38fe6f8b-3f4d-f058-1c36-4d52e198aa2e/detailed-description.html"
+    },
+    {
+      "path": "drawings/5a5ae1ee-1dc2-c38f-c292-c2b8d3383f02/detailed-description.html"
+    },
+    {
+      "path": "drawings/00203bee-23f2-5fb0-d901-277cb53e4ff4/detailed-description.html"
+    },
+    {
+      "path": "drawings/ed282ca2-da64-4854-aad2-c49ce525ff4c/detailed-description.html"
+    },
+    {
+      "path": "drawings/74095f44-6e93-8f9c-87ed-2a16e48d63cd/detailed-description.html"
+    },
+    {
+      "path": "drawings/f7539dcf-308b-a2f7-3e48-a83b6a9a8280/detailed-description.html"
+    },
+    {
+      "path": "drawings/fce80a25-990b-5a01-235d-a53712958093/detailed-description.html"
+    },
+    {
+      "path": "drawings/f6d2f94e-3b2e-5179-91bd-2accb10d4e82/detailed-description.html"
+    },
+    {
+      "path": "drawings/65c1dbca-4ba3-e0df-4447-4b1ebab70504/detailed-description.html"
+    },
+    {
+      "path": "spec/detailed-description-conclusion.html"
+    },
+    {
+      "path": "spec/claims-front-matter.html"
+    },
+    {
+      "path": "claims/26b2c5c7-bbbe-c7ea-392b-2cb6620514a2.html"
+    },
+    {
+      "path": "spec/abstract.html"
+    }
+  ],
+  "migrations": {
+    "editableHeadings": true
+  }
+}
